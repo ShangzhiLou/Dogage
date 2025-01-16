@@ -1,0 +1,1081 @@
+image_path,original_filename,breed,age_min,age_max,age_mid,age_range,sex,age_label,dataset
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Akita 2-5 F copy.jpg,Akita 2-5 F copy.jpg,akita,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Akita 2-5 F(1) copy.jpg,Akita 2-5 F(1) copy.jpg,akita,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\akita 2-5 F(2) copy.jpg,akita 2-5 F(2) copy.jpg,akita,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Akita 2-5 M copy.jpg,Akita 2-5 M copy.jpg,akita,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Akita 2-5 M(1) copy.jpg,Akita 2-5 M(1) copy.jpg,akita,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\akita 2-5 M(2) copy.jpg,akita 2-5 M(2) copy.jpg,akita,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\akita 2-5 M(3) copy.jpg,akita 2-5 M(3) copy.jpg,akita,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\akita 2-5 M(4) copy.jpg,akita 2-5 M(4) copy.jpg,akita,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\akita cross 2-5 M.png,akita cross 2-5 M.png,akita cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\American bulldog 2-5 M copy.jpg,American bulldog 2-5 M copy.jpg,american bulldog,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\american bulldog 2-5 M.png,american bulldog 2-5 M.png,american bulldog,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\American bulldog 5 F.png,American bulldog 5 F.png,american bulldog,5.0,5.0,5.0,5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\beagle 2-5 F copy.jpg,beagle 2-5 F copy.jpg,beagle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\beagle 2-5 F(1) copy.jpg,beagle 2-5 F(1) copy.jpg,beagle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Beagle 2-5 F(1).png,Beagle 2-5 F(1).png,beagle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\beagle 2-5 F(20).png,beagle 2-5 F(20).png,beagle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\beagle 2-5 F(4).png,beagle 2-5 F(4).png,beagle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\beagle 2-5 F(5).png,beagle 2-5 F(5).png,beagle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Beagle 2-5 F.png,Beagle 2-5 F.png,beagle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Beagle 2-5 M.png,Beagle 2-5 M.png,beagle,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Belgian Malinois 2-5 F copy.jpg,Belgian Malinois 2-5 F copy.jpg,belgian malinois,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 F (20).png,border collie 2-5 F (20).png,border collie,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 F copy.jpg,border collie 2-5 F copy.jpg,border collie,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 F(1) copy.jpg,border collie 2-5 F(1) copy.jpg,border collie,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 F(2) copy.jpg,border collie 2-5 F(2) copy.jpg,border collie,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 F(4).png,border collie 2-5 F(4).png,border collie,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Border Collie 2-5 M copy.jpg,Border Collie 2-5 M copy.jpg,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Border collie 2-5 M(1) copy.jpg,Border collie 2-5 M(1) copy.jpg,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Border collie 2-5 M(1).png,Border collie 2-5 M(1).png,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 M(10).png,border collie 2-5 M(10).png,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 M(2) copy.jpg,border collie 2-5 M(2) copy.jpg,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Border collie 2-5 M(2).png,Border collie 2-5 M(2).png,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 M(3) copy.jpg,border collie 2-5 M(3) copy.jpg,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 2-5 M(4) copy.jpg,border collie 2-5 M(4) copy.jpg,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Border collie 2-5 M.png,Border collie 2-5 M.png,border collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie 3 F(2).png,border collie 3 F(2).png,border collie,3.0,3.0,3.0,3,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie cross 2-5 F (1) copy.jpg,border collie cross 2-5 F (1) copy.jpg,border collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Border collie cross 2-5 F copy.jpg,Border collie cross 2-5 F copy.jpg,border collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie cross 2-5 F(12).png,border collie cross 2-5 F(12).png,border collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border collie cross 2-5 F.png,border collie cross 2-5 F.png,border collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Border collie cross 2-5 M copy.jpg,Border collie cross 2-5 M copy.jpg,border collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border Collie cross 2-5 M(3) copy.jpg,border Collie cross 2-5 M(3) copy.jpg,border collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border terrier 2-5 M.png,border terrier 2-5 M.png,border terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\border terrier 5 F.png,border terrier 5 F.png,border terrier,5.0,5.0,5.0,5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Boxer 2-5 F copy.jpg,Boxer 2-5 F copy.jpg,boxer,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\boxer cross 2-5 F.png,boxer cross 2-5 F.png,boxer cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\boxer cross 2-5 M (2).png,boxer cross 2-5 M (2).png,boxer cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\boxer cross 2-5 M.png,boxer cross 2-5 M.png,boxer cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Bruxellois Griffon 2-5 M copy.jpg,Bruxellois Griffon 2-5 M copy.jpg,bruxellois griffon,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Bull mastiff 2-5 F copy.jpg,Bull mastiff 2-5 F copy.jpg,bull mastiff,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Bulldog 4 F.png,Bulldog 4 F.png,bulldog,4.0,4.0,4.0,4,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\bulldog cross 4 M(1).png,bulldog cross 4 M(1).png,bulldog cross,4.0,4.0,4.0,4,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\bullmastiff 2-5 M copy.jpg,bullmastiff 2-5 M copy.jpg,bullmastiff,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Chihuahua 2-5 M copy.jpg,Chihuahua 2-5 M copy.jpg,chihuahua,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\chihuahua 5 F.png,chihuahua 5 F.png,chihuahua,5.0,5.0,5.0,5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\chihuahua cross pug 5 M.png,chihuahua cross pug 5 M.png,chihuahua cross pug,5.0,5.0,5.0,5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\chihuahua long hair 3 M (2).png,chihuahua long hair 3 M (2).png,chihuahua long hair,3.0,3.0,3.0,3,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\chihuahua short hair 2-5 F (2).png,chihuahua short hair 2-5 F (2).png,chihuahua short hair,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\chihuahua short hair 2-5 M(2).png,chihuahua short hair 2-5 M(2).png,chihuahua short hair,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\chihuahua short hair 2-5 M.png,chihuahua short hair 2-5 M.png,chihuahua short hair,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\chow chow 2-5 M copy.jpg,chow chow 2-5 M copy.jpg,chow chow,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cocker spaniel american 2-5 M copy.jpg,cocker spaniel american 2-5 M copy.jpg,cocker spaniel american,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie 2-5 M copy.jpg,Collie 2-5 M copy.jpg,collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie 2-5 M(2) copy.jpg,Collie 2-5 M(2) copy.jpg,collie,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie cross 2-5 F copy.jpg,Collie cross 2-5 F copy.jpg,collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\collie cross 2-5 F(1) copy.jpg,collie cross 2-5 F(1) copy.jpg,collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie cross 2-5 F(2) copy.jpg,Collie cross 2-5 F(2) copy.jpg,collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie cross 2-5 F(3) copy.jpg,Collie cross 2-5 F(3) copy.jpg,collie cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie cross 2-5 M copy.jpg,Collie cross 2-5 M copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie cross 2-5 M(1) copy.jpg,Collie cross 2-5 M(1) copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie cross 2-5 M(2) copy.jpg,Collie cross 2-5 M(2) copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Collie cross 2-5 M(3) copy.jpg,Collie cross 2-5 M(3) copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\collie cross 2-5 M(4) copy.jpg,collie cross 2-5 M(4) copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\collie cross 2-5 M(6) copy.jpg,collie cross 2-5 M(6) copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\collie cross 2-5 M(9) copy.jpg,collie cross 2-5 M(9) copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\collie cross 2-5 M.png,collie cross 2-5 M.png,collie cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 1-2 F(4) copy.jpg,Cross 1-2 F(4) copy.jpg,cross,1.0,2.0,1.5,1-2,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 F (10) copy.jpg,Cross 2-5 F (10) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 F (11) copy.jpg,cross 2-5 F (11) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 F (12) copy.jpg,cross 2-5 F (12) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 F (3) copy.jpg,Cross 2-5 F (3) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 F (5) copy.jpg,Cross 2-5 F (5) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 F (6) copy.jpg,Cross 2-5 F (6) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 F copy.jpg,Cross 2-5 F copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 F(11) copy.jpg,cross 2-5 F(11) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 F(2) copy.jpg,Cross 2-5 F(2) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 F(9) copy.jpg,Cross 2-5 F(9) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M (14) copy.jpg,Cross 2-5 M (14) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M (15) copy.jpg,Cross 2-5 M (15) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M (16) copy.jpg,Cross 2-5 M (16) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M (17) copy.jpg,cross 2-5 M (17) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M (31) copy.jpg,cross 2-5 M (31) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M copy.jpg,Cross 2-5 M copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M(10) copy.jpg,Cross 2-5 M(10) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(11) copy.jpg,cross 2-5 M(11) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M(12) copy.jpg,Cross 2-5 M(12) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M(13) copy.jpg,Cross 2-5 M(13) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M(15) copy.jpg,Cross 2-5 M(15) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M(16) copy.jpg,Cross 2-5 M(16) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(18) copy.jpg,cross 2-5 M(18) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(20) copy.jpg,cross 2-5 M(20) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(21) copy.jpg,cross 2-5 M(21) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(22) copy.jpg,cross 2-5 M(22) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(23) copy.jpg,cross 2-5 M(23) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(24) copy.jpg,cross 2-5 M(24) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(25) copy.jpg,cross 2-5 M(25) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(26) copy.jpg,cross 2-5 M(26) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(27) copy.jpg,cross 2-5 M(27) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(28) copy.jpg,cross 2-5 M(28) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(29) copy.jpg,cross 2-5 M(29) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(30) copy.jpg,cross 2-5 M(30) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(32) copy.jpg,cross 2-5 M(32) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M(4) copy.jpg,Cross 2-5 M(4) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\CRoss 2-5 M(5) copy.jpg,CRoss 2-5 M(5) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross 2-5 M(6) copy.jpg,Cross 2-5 M(6) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\cross 2-5 M(9) copy.jpg,cross 2-5 M(9) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Cross breed 2-5 M copy.jpg,Cross breed 2-5 M copy.jpg,cross breed,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Crossbreed 2-5 F copy.jpg,Crossbreed 2-5 F copy.jpg,crossbreed,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\crossbreed 2-5 F(2).png,crossbreed 2-5 F(2).png,crossbreed,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\crossbreed 2-5 F(30).png,crossbreed 2-5 F(30).png,crossbreed,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\crossbreed 2-5 F(31).png,crossbreed 2-5 F(31).png,crossbreed,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\crossbreed 2-5 F.png,crossbreed 2-5 F.png,crossbreed,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\crossbreed 2-5 M (31).png,crossbreed 2-5 M (31).png,crossbreed,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Crossbreed 2-5 M copy.jpg,Crossbreed 2-5 M copy.jpg,crossbreed,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\crossbreed 2-5 M.png,crossbreed 2-5 M.png,crossbreed,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\english bull terrier cross 2-5 M copy.jpg,english bull terrier cross 2-5 M copy.jpg,english bull terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\English bullterrier 2-5 M copy.jpg,English bullterrier 2-5 M copy.jpg,english bullterrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\English pointer 2-5 M.png,English pointer 2-5 M.png,english pointer,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\foxhound 2-5 M copy.jpg,foxhound 2-5 M copy.jpg,foxhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\french bulldog 2-5 M(1).png,french bulldog 2-5 M(1).png,french bulldog,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\German shepherd 2-5 F copy.jpg,German shepherd 2-5 F copy.jpg,german shepherd,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\german shepherd 2-5 F(1) copy.jpg,german shepherd 2-5 F(1) copy.jpg,german shepherd,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\german shepherd 2-5 F(11).png,german shepherd 2-5 F(11).png,german shepherd,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\German Shepherd 2-5 F.png,German Shepherd 2-5 F.png,german shepherd,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\German shepherd 2-5 M (2) copy.jpg,German shepherd 2-5 M (2) copy.jpg,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\German Shepherd 2-5 M (3) copy.jpg,German Shepherd 2-5 M (3) copy.jpg,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\german shepherd 2-5 M (32).png,german shepherd 2-5 M (32).png,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\German shepherd 2-5 M (4) copy.jpg,German shepherd 2-5 M (4) copy.jpg,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\german Shepherd 2-5 M(30).png,german Shepherd 2-5 M(30).png,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\German Shepherd 2-5 M(34).png,German Shepherd 2-5 M(34).png,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\German Shepherd 2-5 M(4) copy.jpg,German Shepherd 2-5 M(4) copy.jpg,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\german shepherd 2-5 M(5) copy.jpg,german shepherd 2-5 M(5) copy.jpg,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\german Shepherd 2-5 M.png,german Shepherd 2-5 M.png,german shepherd,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\german shepherd cross 4 F.png,german shepherd cross 4 F.png,german shepherd cross,4.0,4.0,4.0,4,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\golden retriver cross poodle 2-5 F copy.jpg,golden retriver cross poodle 2-5 F copy.jpg,golden retriver cross poodle,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Great dane 2-5 M copy.jpg,Great dane 2-5 M copy.jpg,great dane,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 F (1) copy.jpg,Greyhound 2-5 F (1) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 F (3) copy.jpg,Greyhound 2-5 F (3) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 F (35).png,greyhound 2-5 F (35).png,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 F (37).png,greyhound 2-5 F (37).png,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 F (38).png,greyhound 2-5 F (38).png,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 F (4) copy.jpg,Greyhound 2-5 F (4) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 F copy.jpg,Greyhound 2-5 F copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 F(3) copy.jpg,Greyhound 2-5 F(3) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 F(32).png,Greyhound 2-5 F(32).png,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 F(33).png,greyhound 2-5 F(33).png,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 F(4) copy.jpg,Greyhound 2-5 F(4) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 F(6) copy.jpg,greyhound 2-5 F(6) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M (17) copy.jpg,greyhound 2-5 M (17) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M (9) copy.jpg,Greyhound 2-5 M (9) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M copy.jpg,Greyhound 2-5 M copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M(10) copy.jpg,Greyhound 2-5 M(10) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(11) copy.jpg,greyhound 2-5 M(11) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(12) copy.jpg,greyhound 2-5 M(12) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(13) copy.jpg,greyhound 2-5 M(13) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(14) copy.jpg,greyhound 2-5 M(14) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(15) copy.jpg,greyhound 2-5 M(15) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(16) copy.jpg,greyhound 2-5 M(16) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(17) copy.jpg,greyhound 2-5 M(17) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(18) copy.jpg,greyhound 2-5 M(18) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(19) copy.jpg,greyhound 2-5 M(19) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M(2) copy.jpg,Greyhound 2-5 M(2) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(20) copy.jpg,greyhound 2-5 M(20) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(21) copy.jpg,greyhound 2-5 M(21) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(22) copy.jpg,greyhound 2-5 M(22) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(23) copy.jpg,greyhound 2-5 M(23) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(24) copy.jpg,greyhound 2-5 M(24) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(25) copy.jpg,greyhound 2-5 M(25) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 2-5 M(26) copy.jpg,greyhound 2-5 M(26) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M(3) copy.jpg,Greyhound 2-5 M(3) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M(4) copy.jpg,Greyhound 2-5 M(4) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M(6) copy.jpg,Greyhound 2-5 M(6) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M(9) copy.jpg,Greyhound 2-5 M(9) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 2-5 M.png,Greyhound 2-5 M.png,greyhound,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 4 M(40).png,greyhound 4 M(40).png,greyhound,4.0,4.0,4.0,4,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\greyhound 4 M(41).png,greyhound 4 M(41).png,greyhound,4.0,4.0,4.0,4,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Greyhound 4 M.png,Greyhound 4 M.png,greyhound,4.0,4.0,4.0,4,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Harrier 2-5 F copy.jpg,Harrier 2-5 F copy.jpg,harrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Harrier 2-5 F(1) copy.jpg,Harrier 2-5 F(1) copy.jpg,harrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Harrier 2-5 M copy.jpg,Harrier 2-5 M copy.jpg,harrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\harrier 2-5 M(1) copy.jpg,harrier 2-5 M(1) copy.jpg,harrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Jack russel terrier 2-5 M copy.jpg,Jack russel terrier 2-5 M copy.jpg,jack russel terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Jack russel terrier 2-5 M(1) copy.jpg,Jack russel terrier 2-5 M(1) copy.jpg,jack russel terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell 2-5 M.png,jack russell 2-5 M.png,jack russell,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell cross 2-5 M.png,jack russell cross 2-5 M.png,jack russell cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Jack russell terrier 2-5 F copy.jpg,Jack russell terrier 2-5 F copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 F(1) copy.jpg,jack russell terrier 2-5 F(1) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 F(2) copy.jpg,jack russell terrier 2-5 F(2) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 F(3) copy.jpg,jack russell terrier 2-5 F(3) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 F.png,jack russell terrier 2-5 F.png,jack russell terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Jack russell terrier 2-5 M(1) copy.jpg,Jack russell terrier 2-5 M(1) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 M(2) copy.jpg,jack russell terrier 2-5 M(2) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 M(3) copy.jpg,jack russell terrier 2-5 M(3) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 M(3).png,jack russell terrier 2-5 M(3).png,jack russell terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 M(4) copy.jpg,jack russell terrier 2-5 M(4) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 M(5) copy.jpg,jack russell terrier 2-5 M(5) copy.jpg,jack russell terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\jack russell terrier 2-5 M.png,jack russell terrier 2-5 M.png,jack russell terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Japanese Spitz 2-5 F copy.jpg,Japanese Spitz 2-5 F copy.jpg,japanese spitz,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lab cross 2-5 M copy.jpg,Lab cross 2-5 M copy.jpg,lab cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lab cross 2-5 M(1) copy.jpg,lab cross 2-5 M(1) copy.jpg,lab cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lab cross 2-5 M(2) copy.jpg,lab cross 2-5 M(2) copy.jpg,lab cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lab cross 2-5 M(3) copy.jpg,lab cross 2-5 M(3) copy.jpg,lab cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lab cross 2-5 M(6) copy.jpg,lab cross 2-5 M(6) copy.jpg,lab cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador 2-5 F copy.jpg,Labrador 2-5 F copy.jpg,labrador,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\labrador 2-5 F(1) copy.jpg,labrador 2-5 F(1) copy.jpg,labrador,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador 2-5 M (1) copy.jpg,Labrador 2-5 M (1) copy.jpg,labrador,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador 2-5 M copy.jpg,Labrador 2-5 M copy.jpg,labrador,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador 2-5 M(2) copy.jpg,Labrador 2-5 M(2) copy.jpg,labrador,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\labrador 2-5 M.png,labrador 2-5 M.png,labrador,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador cross 2-5 M copy.jpg,Labrador cross 2-5 M copy.jpg,labrador cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador cross 2-5 M(2) copy.jpg,Labrador cross 2-5 M(2) copy.jpg,labrador cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\labrador cross 2-5 M(2).png,labrador cross 2-5 M(2).png,labrador cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador cross 2-5 M(3) copy.jpg,Labrador cross 2-5 M(3) copy.jpg,labrador cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\labrador cross 2-5 M.png,labrador cross 2-5 M.png,labrador cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Labrador cross 4 M.png,Labrador cross 4 M.png,labrador cross,4.0,4.0,4.0,4,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lakeland terrier 2-5 M copy.jpg,lakeland terrier 2-5 M copy.jpg,lakeland terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lhasa Apso 2-5 F.png,Lhasa Apso 2-5 F.png,lhasa apso,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lhasa Apso cross 2-5 M copy.jpg,Lhasa Apso cross 2-5 M copy.jpg,lhasa apso cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 F (2) copy.jpg,Lurcher 2-5 F (2) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 F (3) copy.jpg,Lurcher 2-5 F (3) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 F (4) copy.jpg,Lurcher 2-5 F (4) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 F (5) copy.jpg,Lurcher 2-5 F (5) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 F (56) copy.jpg,lurcher 2-5 F (56) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 F copy.jpg,Lurcher 2-5 F copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 F(12) copy.jpg,Lurcher 2-5 F(12) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 F(3) copy.jpg,lurcher 2-5 F(3) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M copy.jpg,Lurcher 2-5 M copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(10) copy.jpg,lurcher 2-5 M(10) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(10).png,Lurcher 2-5 M(10).png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(11) copy.jpg,lurcher 2-5 M(11) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(12) copy.jpg,Lurcher 2-5 M(12) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(13) copy.jpg,lurcher 2-5 M(13) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(14) copy.jpg,lurcher 2-5 M(14) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(17) copy.jpg,lurcher 2-5 M(17) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(18) copy.jpg,lurcher 2-5 M(18) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(19) copy.jpg,lurcher 2-5 M(19) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(2) copy.jpg,Lurcher 2-5 M(2) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(20) copy.jpg,lurcher 2-5 M(20) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(21) copy.jpg,lurcher 2-5 M(21) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(22) copy.jpg,lurcher 2-5 M(22) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(23) copy.jpg,Lurcher 2-5 M(23) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 m(24) copy.jpg,lurcher 2-5 m(24) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(25) copy.jpg,lurcher 2-5 M(25) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(26) copy.jpg,lurcher 2-5 M(26) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(27) copy.jpg,lurcher 2-5 M(27) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(28) copy.jpg,lurcher 2-5 M(28) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(29) copy.jpg,lurcher 2-5 M(29) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(3) copy.jpg,Lurcher 2-5 M(3) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(30).png,Lurcher 2-5 M(30).png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(35).png,lurcher 2-5 M(35).png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(4) copy.jpg,Lurcher 2-5 M(4) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(40).png,lurcher 2-5 M(40).png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(5) copy.jpg,Lurcher 2-5 M(5) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(6) copy.jpg,Lurcher 2-5 M(6) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(7).png,lurcher 2-5 M(7).png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(8).png,lurcher 2-5 M(8).png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M(9) copy.jpg,Lurcher 2-5 M(9) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\lurcher 2-5 M(9).png,lurcher 2-5 M(9).png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Lurcher 2-5 M.png,Lurcher 2-5 M.png,lurcher,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Malamute 2-5 M copy.jpg,Malamute 2-5 M copy.jpg,malamute,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Manchester terrier 2-5 M copy.jpg,Manchester terrier 2-5 M copy.jpg,manchester terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\miniature dachshund long hair 2-5 F.png,miniature dachshund long hair 2-5 F.png,miniature dachshund long hair,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\papillon 2-5 M.png,papillon 2-5 M.png,papillon,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Pointer (english) 2-5 M copy.jpg,Pointer (english) 2-5 M copy.jpg,pointer (english),2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\pointer 2-5 M copy.jpg,pointer 2-5 M copy.jpg,pointer,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Pomeranian 2-5 M copy.jpg,Pomeranian 2-5 M copy.jpg,pomeranian,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Pug 2-5 M copy.jpg,Pug 2-5 M copy.jpg,pug,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Pug cross 2-5 M copy.jpg,Pug cross 2-5 M copy.jpg,pug cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\pug cross 2-5 M(1) copy.jpg,pug cross 2-5 M(1) copy.jpg,pug cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\pug cross 2-5 M(2) copy.jpg,pug cross 2-5 M(2) copy.jpg,pug cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Pyrenean Mountain Dog 2-5 M copy.jpg,Pyrenean Mountain Dog 2-5 M copy.jpg,pyrenean mountain dog,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Pyrenean mountain dog 2-5 M.png,Pyrenean mountain dog 2-5 M.png,pyrenean mountain dog,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Rottweiler 2-5 F copy.jpg,Rottweiler 2-5 F copy.jpg,rottweiler,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Rottweiler 2-5 F(1) copy.jpg,Rottweiler 2-5 F(1) copy.jpg,rottweiler,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Rottweiler 2-5 F(2) copy.jpg,Rottweiler 2-5 F(2) copy.jpg,rottweiler,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\rottweiler 2-5 F(2).png,rottweiler 2-5 F(2).png,rottweiler,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\rottweiler 2-5 F(3) copy.jpg,rottweiler 2-5 F(3) copy.jpg,rottweiler,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Rottweiler 2-5 M copy.jpg,Rottweiler 2-5 M copy.jpg,rottweiler,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\rottweiler 2-5 M(1) copy.jpg,rottweiler 2-5 M(1) copy.jpg,rottweiler,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\rottweiler 2-5 M.png,rottweiler 2-5 M.png,rottweiler,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\rottweiler cross staffodshire bull terrier 2-5 F.png,rottweiler cross staffodshire bull terrier 2-5 F.png,rottweiler cross staffodshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Saluki 2-5 F copy.jpg,Saluki 2-5 F copy.jpg,saluki,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\saluki 2-5 F(1) copy.jpg,saluki 2-5 F(1) copy.jpg,saluki,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Saluki 2-5 M(1) copy.jpg,Saluki 2-5 M(1) copy.jpg,saluki,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\saluki 2-5 M(2) copy.jpg,saluki 2-5 M(2) copy.jpg,saluki,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\saluki 2-5 M(3) copy.jpg,saluki 2-5 M(3) copy.jpg,saluki,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\saluki 2-5 M(4) copy.jpg,saluki 2-5 M(4) copy.jpg,saluki,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\saluki 2-5 M(5) copy.jpg,saluki 2-5 M(5) copy.jpg,saluki,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\schnauzer corss 2-5 M copy.jpg,schnauzer corss 2-5 M copy.jpg,schnauzer corss,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\shar pei 2-5 M copy.jpg,shar pei 2-5 M copy.jpg,shar pei,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\shih tzu 2-5 F copy.jpg,shih tzu 2-5 F copy.jpg,shih tzu,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\shih tzu 2-5 M copy.jpg,shih tzu 2-5 M copy.jpg,shih tzu,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Siberian Husky 2-5 F copy.jpg,Siberian Husky 2-5 F copy.jpg,siberian husky,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky 2-5 F(1) copy.jpg,siberian husky 2-5 F(1) copy.jpg,siberian husky,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky 2-5 F(2) copy.jpg,siberian husky 2-5 F(2) copy.jpg,siberian husky,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky 2-5 F(3) copy.jpg,siberian husky 2-5 F(3) copy.jpg,siberian husky,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky 2-5 F(5) copy.jpg,siberian husky 2-5 F(5) copy.jpg,siberian husky,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Siberian Husky 2-5 M copy.jpg,Siberian Husky 2-5 M copy.jpg,siberian husky,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky 2-5 M(1) copy.jpg,siberian husky 2-5 M(1) copy.jpg,siberian husky,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Siberian husky 2-5 M(12).png,Siberian husky 2-5 M(12).png,siberian husky,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky 2-5 M(2) copy.jpg,siberian husky 2-5 M(2) copy.jpg,siberian husky,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky 2-5 M(3) copy.jpg,siberian husky 2-5 M(3) copy.jpg,siberian husky,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Siberian husky 2-5 M.png,Siberian husky 2-5 M.png,siberian husky,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\siberian husky cross 3 M.png,siberian husky cross 3 M.png,siberian husky cross,3.0,3.0,3.0,3,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\smooth collie 2-5 F copy.jpg,smooth collie 2-5 F copy.jpg,smooth collie,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Springer spaniel 2-5 M copy.jpg,Springer spaniel 2-5 M copy.jpg,springer spaniel,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 F (30).png,staffordshire bull terrier 2-5 F (30).png,staffordshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 F (32).png,staffordshire bull terrier 2-5 F (32).png,staffordshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier 2-5 F copy.jpg,Staffordshire bull terrier 2-5 F copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 F(1) copy.jpg,staffordshire bull terrier 2-5 F(1) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 F(2) copy.jpg,staffordshire bull terrier 2-5 F(2) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 F(3) copy.jpg,staffordshire bull terrier 2-5 F(3) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 F(5) copy.jpg,staffordshire bull terrier 2-5 F(5) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 M copy.jpg,staffordshire bull terrier 2-5 M copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier 2-5 M(1) copy.jpg,Staffordshire bull terrier 2-5 M(1) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier 2-5 M(3) copy.jpg,Staffordshire bull terrier 2-5 M(3) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier 2-5 M(33).png,Staffordshire bull terrier 2-5 M(33).png,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 M(4) copy.jpg,staffordshire bull terrier 2-5 M(4) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 M(5) copy.jpg,staffordshire bull terrier 2-5 M(5) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 M(6) copy.jpg,staffordshire bull terrier 2-5 M(6) copy.jpg,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 2-5 M.png,staffordshire bull terrier 2-5 M.png,staffordshire bull terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier 4 F.png,staffordshire bull terrier 4 F.png,staffordshire bull terrier,4.0,4.0,4.0,4,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier cross 2 M(30).png,Staffordshire bull terrier cross 2 M(30).png,staffordshire bull terrier cross,2.0,2.0,2.0,2,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier cross 2-5 F copy.jpg,Staffordshire bull terrier cross 2-5 F copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier cross 2-5 F(1) copy.jpg,staffordshire bull terrier cross 2-5 F(1) copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier cross 2-5 F(3) copy.jpg,staffordshire bull terrier cross 2-5 F(3) copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier cross 2-5 F(4) copy.jpg,staffordshire bull terrier cross 2-5 F(4) copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier cross 2-5 M copy.jpg,Staffordshire bull terrier cross 2-5 M copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier cross 2-5 M(1) copy.jpg,Staffordshire bull terrier cross 2-5 M(1) copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Staffordshire bull terrier cross 2-5 M(2) copy.jpg,Staffordshire bull terrier cross 2-5 M(2) copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier cross 2-5 M(3) copy.jpg,staffordshire bull terrier cross 2-5 M(3) copy.jpg,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier cross 2-5 M.png,staffordshire bull terrier cross 2-5 M.png,staffordshire bull terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\staffordshire bull terrier cross 3 M.png,staffordshire bull terrier cross 3 M.png,staffordshire bull terrier cross,3.0,3.0,3.0,3,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Terrier 2-5 F copy.jpg,Terrier 2-5 F copy.jpg,terrier,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Terrier 2-5 M copy.jpg,Terrier 2-5 M copy.jpg,terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Terrier 2-5 M(1) copy.jpg,Terrier 2-5 M(1) copy.jpg,terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier 2-5 M(2) copy.jpg,terrier 2-5 M(2) copy.jpg,terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier 2-5 M(3) copy.jpg,terrier 2-5 M(3) copy.jpg,terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier 2-5 M(4) copy.jpg,terrier 2-5 M(4) copy.jpg,terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier 2-5 M(5) copy.jpg,terrier 2-5 M(5) copy.jpg,terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier 2-5 M(6) copy.jpg,terrier 2-5 M(6) copy.jpg,terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Terrier cross 2 M copy.jpg,Terrier cross 2 M copy.jpg,terrier cross,2.0,2.0,2.0,2,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 F copy.jpg,terrier cross 2-5 F copy.jpg,terrier cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Terrier cross 2-5 F(2).png,Terrier cross 2-5 F(2).png,terrier cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Terrier cross 2-5 F.png,Terrier cross 2-5 F.png,terrier cross,2.0,5.0,3.5,2-5,F,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M (40).png,terrier cross 2-5 M (40).png,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M(1) copy.jpg,terrier cross 2-5 M(1) copy.jpg,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M(2) copy.jpg,terrier cross 2-5 M(2) copy.jpg,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M(3) copy.jpg,terrier cross 2-5 M(3) copy.jpg,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M(3).png,terrier cross 2-5 M(3).png,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M(4) copy.jpg,terrier cross 2-5 M(4) copy.jpg,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M(41).png,terrier cross 2-5 M(41).png,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\terrier cross 2-5 M(5) copy.jpg,terrier cross 2-5 M(5) copy.jpg,terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Terrier cross 5 M copy.jpg,Terrier cross 5 M copy.jpg,terrier cross,5.0,5.0,5.0,5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\Weimeraner 2-5 M copy.jpg,Weimeraner 2-5 M copy.jpg,weimeraner,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\west highland terrier 2-5 M copy.jpg,west highland terrier 2-5 M copy.jpg,west highland terrier,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\west highland terrier cross 2-5 M.png,west highland terrier cross 2-5 M.png,west highland terrier cross,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Adult\whippet 2-5 M.png,whippet 2-5 M.png,whippet,2.0,5.0,3.5,2-5,M,Adult,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Akita 5-7 F copy.jpg,Akita 5-7 F copy.jpg,akita,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\akita 5-7 F(1) copy.jpg,akita 5-7 F(1) copy.jpg,akita,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\akita 5-7 F(2) copy.jpg,akita 5-7 F(2) copy.jpg,akita,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Akita 5-7 M copy.jpg,Akita 5-7 M copy.jpg,akita,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Akita 5-7 M(2) copy.jpg,Akita 5-7 M(2) copy.jpg,akita,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\akita 8+ F copy.jpg,akita 8+ F copy.jpg,akita,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\akita 8+ F(1) copy.jpg,akita 8+ F(1) copy.jpg,akita,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\akita 8+ F.png,akita 8+ F.png,akita,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Akita 8+ M.png,Akita 8+ M.png,akita,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Alaskan Malamute 5-7 F.png,Alaskan Malamute 5-7 F.png,alaskan malamute,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\American bull dog 5-7 F copy.jpg,American bull dog 5-7 F copy.jpg,american bull dog,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\American bull dog 5-7 M copy.jpg,American bull dog 5-7 M copy.jpg,american bull dog,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\American bull dog 8+ M copy.jpg,American bull dog 8+ M copy.jpg,american bull dog,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\American bulldog 5-7 F (1) copy.jpg,American bulldog 5-7 F (1) copy.jpg,american bulldog,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\American bulldog 5-7 F copy.jpg,American bulldog 5-7 F copy.jpg,american bulldog,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\american bulldog 5-7 F(2) copy.jpg,american bulldog 5-7 F(2) copy.jpg,american bulldog,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\anatolian shepherd dog 5-7 M.png,anatolian shepherd dog 5-7 M.png,anatolian shepherd dog,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\basset hound cross 5-7 F copy.jpg,basset hound cross 5-7 F copy.jpg,basset hound cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\beagle 11 M copy.jpg,beagle 11 M copy.jpg,beagle,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Beagle 5-7 F copy.jpg,Beagle 5-7 F copy.jpg,beagle,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Beagle 5-7 M copy.jpg,Beagle 5-7 M copy.jpg,beagle,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Beagle 5-7 M(1) copy.jpg,Beagle 5-7 M(1) copy.jpg,beagle,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\beagle 5-7 M.png,beagle 5-7 M.png,beagle,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Beagle 8+ F (1) copy.jpg,Beagle 8+ F (1) copy.jpg,beagle,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Beagle 8+ F copy.jpg,Beagle 8+ F copy.jpg,beagle,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Beagle cross 5-7 M copy.jpg,Beagle cross 5-7 M copy.jpg,beagle cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\beagle cross 9 M copy.jpg,beagle cross 9 M copy.jpg,beagle cross,9.0,9.0,9.0,9,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Bearded Collie 5-7 M copy.jpg,Bearded Collie 5-7 M copy.jpg,bearded collie,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\bearded collie 5-7 M(1) copy.jpg,bearded collie 5-7 M(1) copy.jpg,bearded collie,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\BOrder collie 10 M.png,BOrder collie 10 M.png,border collie,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\border collie 5-7 F (2).png,border collie 5-7 F (2).png,border collie,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\border collie 5-7 M copy.jpg,border collie 5-7 M copy.jpg,border collie,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Border collie 5-7 M(1) copy.jpg,Border collie 5-7 M(1) copy.jpg,border collie,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Border collie 8+ F copy.jpg,Border collie 8+ F copy.jpg,border collie,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Border collie 8+ F(1) copy.jpg,Border collie 8+ F(1) copy.jpg,border collie,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\border collie 8+ F(2) copy.jpg,border collie 8+ F(2) copy.jpg,border collie,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Border collie 8+ M copy.jpg,Border collie 8+ M copy.jpg,border collie,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Border collie 8+ M(1) copy.jpg,Border collie 8+ M(1) copy.jpg,border collie,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Border collie 8+ M(2) copy.jpg,Border collie 8+ M(2) copy.jpg,border collie,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\border terrier 5-7 M.png,border terrier 5-7 M.png,border terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\border terrier cross 5-7 M(2).png,border terrier cross 5-7 M(2).png,border terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\border terrier cross 5-7 M.png,border terrier cross 5-7 M.png,border terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\border terrier cross lakeland terrier 10 F(1).png,border terrier cross lakeland terrier 10 F(1).png,border terrier cross lakeland terrier,10.0,10.0,10.0,10,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\boxer 5-7 F copy.jpg,boxer 5-7 F copy.jpg,boxer,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\bulldog 5-7 F copy.jpg,bulldog 5-7 F copy.jpg,bulldog,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cairn terrier 12 F.png,cairn terrier 12 F.png,cairn terrier,12.0,12.0,12.0,12,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cairn terrier 16 M copy.jpg,cairn terrier 16 M copy.jpg,cairn terrier,16.0,16.0,16.0,16,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cavalier king charles spaniel 5-7 M.png,cavalier king charles spaniel 5-7 M.png,cavalier king charles spaniel,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cavalier king charles spaniel 8+ M copy.jpg,cavalier king charles spaniel 8+ M copy.jpg,cavalier king charles spaniel,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\chihuahua 5-7 M copy.jpg,chihuahua 5-7 M copy.jpg,chihuahua,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\chihuahua long hair 5-7 F.png,chihuahua long hair 5-7 F.png,chihuahua long hair,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\chihuahua long hair 5-7 M.png,chihuahua long hair 5-7 M.png,chihuahua long hair,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Chinese Crested 5-7 F copy.jpg,Chinese Crested 5-7 F copy.jpg,chinese crested,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cocker spaniel 12 M copy.jpg,cocker spaniel 12 M copy.jpg,cocker spaniel,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cocker spaniel 14 M copy.jpg,cocker spaniel 14 M copy.jpg,cocker spaniel,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cocker spaniel 5-7 M copy.jpg,cocker spaniel 5-7 M copy.jpg,cocker spaniel,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cocker spaniel 6 M copy.jpg,Cocker spaniel 6 M copy.jpg,cocker spaniel,6.0,6.0,6.0,6,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cocker spaniel 8+ F copy.jpg,Cocker spaniel 8+ F copy.jpg,cocker spaniel,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cocker spaniel 8+ M.png,cocker spaniel 8+ M.png,cocker spaniel,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\colie cross 5-7 M.png,colie cross 5-7 M.png,colie cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie 10 M copy.jpg,collie 10 M copy.jpg,collie,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie 12 M copy.jpg,collie 12 M copy.jpg,collie,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie 13 M(1) copy.jpg,collie 13 M(1) copy.jpg,collie,13.0,13.0,13.0,13,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 10 F copy.jpg,collie cross 10 F copy.jpg,collie cross,10.0,10.0,10.0,10,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Collie cross 12 M.png,Collie cross 12 M.png,collie cross,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 13 M(1) copy.jpg,collie cross 13 M(1) copy.jpg,collie cross,13.0,13.0,13.0,13,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 14 M copy.jpg,collie cross 14 M copy.jpg,collie cross,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 14 M(2) copy.jpg,collie cross 14 M(2) copy.jpg,collie cross,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 2-5 M(7) copy.jpg,collie cross 2-5 M(7) copy.jpg,collie cross,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 5 F copy.jpg,collie cross 5 F copy.jpg,collie cross,5.0,5.0,5.0,5,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Collie cross 5-7 F copy.jpg,Collie cross 5-7 F copy.jpg,collie cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Collie cross 5-7 M copy.jpg,Collie cross 5-7 M copy.jpg,collie cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 5-7 M(1).png,collie cross 5-7 M(1).png,collie cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 5-7 M(2) copy.jpg,collie cross 5-7 M(2) copy.jpg,collie cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Collie cross 5-7 M(3) copy.jpg,Collie cross 5-7 M(3) copy.jpg,collie cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 5-7 M(3).png,collie cross 5-7 M(3).png,collie cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 5-7 M(4) copy.jpg,collie cross 5-7 M(4) copy.jpg,collie cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Collie cross 8 F copy.jpg,Collie cross 8 F copy.jpg,collie cross,8.0,8.0,8.0,8,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 8 M(1) copy.jpg,collie cross 8 M(1) copy.jpg,collie cross,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 8+ F copy.jpg,collie cross 8+ F copy.jpg,collie cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 8+ F(1) copy.jpg,collie cross 8+ F(1) copy.jpg,collie cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 8+ F(2) copy.jpg,collie cross 8+ F(2) copy.jpg,collie cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\collie cross 8+ F.png,collie cross 8+ F.png,collie cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Collie Cross 8+ M copy.jpg,Collie Cross 8+ M copy.jpg,collie cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\corgi cross 14 F copy.jpg,corgi cross 14 F copy.jpg,corgi cross,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\corgi cross 14 F(1) copy.jpg,corgi cross 14 F(1) copy.jpg,corgi cross,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 1-2 M(7) copy.jpg,cross 1-2 M(7) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 1-2 M(8) copy.jpg,cross 1-2 M(8) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 12 M copy.jpg,Cross 12 M copy.jpg,cross,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 12 M(4) copy.jpg,cross 12 M(4) copy.jpg,cross,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 12 M(5) copy.jpg,cross 12 M(5) copy.jpg,cross,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 13 F copy.jpg,Cross 13 F copy.jpg,cross,13.0,13.0,13.0,13,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 13 F(1) copy.jpg,cross 13 F(1) copy.jpg,cross,13.0,13.0,13.0,13,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 13 F(2) copy.jpg,cross 13 F(2) copy.jpg,cross,13.0,13.0,13.0,13,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 13 M copy.jpg,cross 13 M copy.jpg,cross,13.0,13.0,13.0,13,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 14 M copy.jpg,Cross 14 M copy.jpg,cross,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 14 M(1) copy.jpg,cross 14 M(1) copy.jpg,cross,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 16 F copy.jpg,cross 16 F copy.jpg,cross,16.0,16.0,16.0,16,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 16 F(1) copy.jpg,cross 16 F(1) copy.jpg,cross,16.0,16.0,16.0,16,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 16 F(2) copy.jpg,cross 16 F(2) copy.jpg,cross,16.0,16.0,16.0,16,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 2-5 F(7) copy.jpg,cross 2-5 F(7) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 2-5 F(8) copy.jpg,cross 2-5 F(8) copy.jpg,cross,2.0,5.0,3.5,2-5,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 2-5 M(7) copy.jpg,Cross 2-5 M(7) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 2-5 M(8) copy.jpg,Cross 2-5 M(8) copy.jpg,cross,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 F (11) copy.jpg,Cross 5-7 F (11) copy.jpg,cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 F (12) copy.jpg,cross 5-7 F (12) copy.jpg,cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 F(12) copy.jpg,cross 5-7 F(12) copy.jpg,cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 F(13) copy.jpg,cross 5-7 F(13) copy.jpg,cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 F(14) copy.jpg,cross 5-7 F(14) copy.jpg,cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 F(16) copy.jpg,cross 5-7 F(16) copy.jpg,cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M (2) copy.jpg,cross 5-7 M (2) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 M copy.jpg,Cross 5-7 M copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 M(1) copy.jpg,Cross 5-7 M(1) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(10) copy.jpg,cross 5-7 M(10) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(11) copy.jpg,cross 5-7 M(11) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(12) copy.jpg,cross 5-7 M(12) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(13) copy.jpg,cross 5-7 M(13) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(14) copy.jpg,cross 5-7 M(14) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 M(2) copy.jpg,Cross 5-7 M(2) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 M(3) copy.jpg,Cross 5-7 M(3) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 M(4) copy.jpg,Cross 5-7 M(4) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 M(5) copy.jpg,Cross 5-7 M(5) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(6) copy.jpg,cross 5-7 M(6) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(7) copy.jpg,cross 5-7 M(7) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 5-7 M(8) copy.jpg,cross 5-7 M(8) copy.jpg,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 5-7 M.png,Cross 5-7 M.png,cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 6 F copy.jpg,cross 6 F copy.jpg,cross,6.0,6.0,6.0,6,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 8+ F copy.jpg,Cross 8+ F copy.jpg,cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ F(1) copy.jpg,cross 8+ F(1) copy.jpg,cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ F(3) copy.jpg,cross 8+ F(3) copy.jpg,cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ M (10) copy.jpg,cross 8+ M (10) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ M copy.jpg,cross 8+ M copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ M(10) copy.jpg,cross 8+ M(10) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ M(11) copy.jpg,cross 8+ M(11) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ M(12) copy.jpg,cross 8+ M(12) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ M(2) copy.jpg,cross 8+ M(2) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 8+ M(3) copy.jpg,Cross 8+ M(3) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 8+ M(4) copy.jpg,Cross 8+ M(4) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross 8+ m(6) copy.jpg,cross 8+ m(6) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 8+ M(7) copy.jpg,Cross 8+ M(7) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 8+ M(8) copy.jpg,Cross 8+ M(8) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Cross 8+ M(9) copy.jpg,Cross 8+ M(9) copy.jpg,cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\cross breed 8+ M copy.jpg,cross breed 8+ M copy.jpg,cross breed,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 10 M(1).png,crossbreed 10 M(1).png,crossbreed,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 11 M.png,crossbreed 11 M.png,crossbreed,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 5-7 F(3).png,crossbreed 5-7 F(3).png,crossbreed,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Crossbreed 5-7 M copy.jpg,Crossbreed 5-7 M copy.jpg,crossbreed,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 5-7 M(1) copy.jpg,crossbreed 5-7 M(1) copy.jpg,crossbreed,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 5-7 M(2) copy.jpg,crossbreed 5-7 M(2) copy.jpg,crossbreed,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 5-7 M.png,crossbreed 5-7 M.png,crossbreed,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 6 M (2).png,crossbreed 6 M (2).png,crossbreed,6.0,6.0,6.0,6,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 6 M (4).png,crossbreed 6 M (4).png,crossbreed,6.0,6.0,6.0,6,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Crossbreed 6 M.png,Crossbreed 6 M.png,crossbreed,6.0,6.0,6.0,6,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 8+ F.png,crossbreed 8+ F.png,crossbreed,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 8+ M copy.jpg,crossbreed 8+ M copy.jpg,crossbreed,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 8+ M(1) copy.jpg,crossbreed 8+ M(1) copy.jpg,crossbreed,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\crossbreed 9 F (20).png,crossbreed 9 F (20).png,crossbreed,9.0,9.0,9.0,9,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\dachshund cross 11 M copy.jpg,dachshund cross 11 M copy.jpg,dachshund cross,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\dachshund cross jack russell terrier 9 M.png,dachshund cross jack russell terrier 9 M.png,dachshund cross jack russell terrier,9.0,9.0,9.0,9,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\doberman 8+ M copy.jpg,doberman 8+ M copy.jpg,doberman,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\doberman cross 9 F copy.jpg,doberman cross 9 F copy.jpg,doberman cross,9.0,9.0,9.0,9,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Dogue de Bordeaux 5-7 F copy.jpg,Dogue de Bordeaux 5-7 F copy.jpg,dogue de bordeaux,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Dogue de Bordeaux 8+ M copy.jpg,Dogue de Bordeaux 8+ M copy.jpg,dogue de bordeaux,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Elk hound 8+ F copy.jpg,Elk hound 8+ F copy.jpg,elk hound,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Elkhound 5-7 M copy.jpg,Elkhound 5-7 M copy.jpg,elkhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\english bull terrier 10 F(1) copy.jpg,english bull terrier 10 F(1) copy.jpg,english bull terrier,10.0,10.0,10.0,10,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\english bull terrier 5-7 M copy.jpg,english bull terrier 5-7 M copy.jpg,english bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\English bull terrier 8 M.png,English bull terrier 8 M.png,english bull terrier,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\English springer spaniel 5-7 M.png,English springer spaniel 5-7 M.png,english springer spaniel,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Foxhound 5-7 M copy.jpg,Foxhound 5-7 M copy.jpg,foxhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\French bulldog 1 M copy.jpg,French bulldog 1 M copy.jpg,french bulldog,1.0,1.0,1.0,1,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd 10 M(1) copy.jpg,german shepherd 10 M(1) copy.jpg,german shepherd,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd 11 F copy.jpg,german shepherd 11 F copy.jpg,german shepherd,11.0,11.0,11.0,11,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd 14 M copy.jpg,german shepherd 14 M copy.jpg,german shepherd,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\German shepherd 5-7 F copy.jpg,German shepherd 5-7 F copy.jpg,german shepherd,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd 5-7 F(1) copy.jpg,german shepherd 5-7 F(1) copy.jpg,german shepherd,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\German Shepherd 5-7 F(21).png,German Shepherd 5-7 F(21).png,german shepherd,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german Shepherd 5-7 F(22).png,german Shepherd 5-7 F(22).png,german shepherd,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\German Shepherd 5-7 F.png,German Shepherd 5-7 F.png,german shepherd,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\German shepherd 5-7 M (1) copy.jpg,German shepherd 5-7 M (1) copy.jpg,german shepherd,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd 8 M.png,german shepherd 8 M.png,german shepherd,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd 8+ F.png,german shepherd 8+ F.png,german shepherd,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\German Shepherd corss Rottweiler 11 M copy.jpg,German Shepherd corss Rottweiler 11 M copy.jpg,german shepherd corss rottweiler,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd cross 12 M copy.jpg,german shepherd cross 12 M copy.jpg,german shepherd cross,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd cross 5-7 M.png,german shepherd cross 5-7 M.png,german shepherd cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\german shepherd cross collie 13 F copy.jpg,german shepherd cross collie 13 F copy.jpg,german shepherd cross collie,13.0,13.0,13.0,13,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\golden retriever 10 F copy.jpg,golden retriever 10 F copy.jpg,golden retriever,10.0,10.0,10.0,10,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\golden retriever 10 F(1) copy.jpg,golden retriever 10 F(1) copy.jpg,golden retriever,10.0,10.0,10.0,10,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\golden retriever 14 F copy.jpg,golden retriever 14 F copy.jpg,golden retriever,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\golden retriever 5 F copy.jpg,golden retriever 5 F copy.jpg,golden retriever,5.0,5.0,5.0,5,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhoudn 12 F copy.jpg,greyhoudn 12 F copy.jpg,greyhoudn,12.0,12.0,12.0,12,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhound 12 F copy.jpg,greyhound 12 F copy.jpg,greyhound,12.0,12.0,12.0,12,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhound 2-5 f(7) copy.jpg,greyhound 2-5 f(7) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhound 2-5 F(8) copy.jpg,greyhound 2-5 F(8) copy.jpg,greyhound,2.0,5.0,3.5,2-5,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 2-5 M (7) copy.jpg,Greyhound 2-5 M (7) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 2-5 M (8) copy.jpg,Greyhound 2-5 M (8) copy.jpg,greyhound,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5 M copy.jpg,Greyhound 5 M copy.jpg,greyhound,5.0,5.0,5.0,5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 F copy.jpg,Greyhound 5-7 F copy.jpg,greyhound,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhound 5-7 F(1) copy.jpg,greyhound 5-7 F(1) copy.jpg,greyhound,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhound 5-7 F(40).png,greyhound 5-7 F(40).png,greyhound,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 M copy.jpg,Greyhound 5-7 M copy.jpg,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 M(2) copy.jpg,Greyhound 5-7 M(2) copy.jpg,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 M(3) copy.jpg,Greyhound 5-7 M(3) copy.jpg,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 M(4) copy.jpg,Greyhound 5-7 M(4) copy.jpg,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 M(5) copy.jpg,Greyhound 5-7 M(5) copy.jpg,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 M(6) copy.jpg,Greyhound 5-7 M(6) copy.jpg,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhound 5-7 M(7) copy.jpg,greyhound 5-7 M(7) copy.jpg,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Greyhound 5-7 M.png,Greyhound 5-7 M.png,greyhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\greyhound 8+ M copy.jpg,greyhound 8+ M copy.jpg,greyhound,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Harrier 5-7 F copy.jpg,Harrier 5-7 F copy.jpg,harrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Husky cross Collie 3 F copy.jpg,Husky cross Collie 3 F copy.jpg,husky cross collie,3.0,3.0,3.0,3,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack Russel terrier 5-7 M copy.jpg,Jack Russel terrier 5-7 M copy.jpg,jack russel terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russel terrier 5-7 M(1) copy.jpg,Jack russel terrier 5-7 M(1) copy.jpg,jack russel terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russel terrier 5-7 M(2) copy.jpg,jack russel terrier 5-7 M(2) copy.jpg,jack russel terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russel terrier 8 M copy.jpg,jack russel terrier 8 M copy.jpg,jack russel terrier,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russel terrier 8+ F copy.jpg,Jack russel terrier 8+ F copy.jpg,jack russel terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack Russel terrier 8+ F(2) copy.jpg,Jack Russel terrier 8+ F(2) copy.jpg,jack russel terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russel terrier 8+ F(3) copy.jpg,jack russel terrier 8+ F(3) copy.jpg,jack russel terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russel terrier 8+ M copy.jpg,Jack russel terrier 8+ M copy.jpg,jack russel terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russel terrier 8+ M(1) copy.jpg,Jack russel terrier 8+ M(1) copy.jpg,jack russel terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russel terrier 8+ M(2) copy.jpg,jack russel terrier 8+ M(2) copy.jpg,jack russel terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell 10 M copy.jpg,jack russell 10 M copy.jpg,jack russell,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell 7 M(1).png,Jack russell 7 M(1).png,jack russell,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell 8+ M copy.jpg,Jack russell 8+ M copy.jpg,jack russell,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell 9 M.png,Jack russell 9 M.png,jack russell,9.0,9.0,9.0,9,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 10 M(1).png,Jack russell terrier 10 M(1).png,jack russell terrier,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 12 F.png,Jack russell terrier 12 F.png,jack russell terrier,12.0,12.0,12.0,12,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 13 M copy.jpg,jack russell terrier 13 M copy.jpg,jack russell terrier,13.0,13.0,13.0,13,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 13 M(1) copy.jpg,jack russell terrier 13 M(1) copy.jpg,jack russell terrier,13.0,13.0,13.0,13,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 14 F copy.jpg,jack russell terrier 14 F copy.jpg,jack russell terrier,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 14 F(1) copy.jpg,jack russell terrier 14 F(1) copy.jpg,jack russell terrier,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 14 F(2) copy.jpg,jack russell terrier 14 F(2) copy.jpg,jack russell terrier,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 14 M copy.jpg,Jack russell terrier 14 M copy.jpg,jack russell terrier,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 14 M(1) copy.jpg,jack russell terrier 14 M(1) copy.jpg,jack russell terrier,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 15 M copy.jpg,jack russell terrier 15 M copy.jpg,jack russell terrier,15.0,15.0,15.0,15,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 15 M.png,jack russell terrier 15 M.png,jack russell terrier,15.0,15.0,15.0,15,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 5-7 F copy.jpg,Jack russell terrier 5-7 F copy.jpg,jack russell terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 5-7 F(1) copy.jpg,jack russell terrier 5-7 F(1) copy.jpg,jack russell terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 5-7 F(2) copy.jpg,jack russell terrier 5-7 F(2) copy.jpg,jack russell terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 5-7 F.png,jack russell terrier 5-7 F.png,jack russell terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 5-7 M copy.jpg,Jack russell terrier 5-7 M copy.jpg,jack russell terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 5-7 M(1) copy.jpg,Jack russell terrier 5-7 M(1) copy.jpg,jack russell terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 5-7 M(2) copy.jpg,jack russell terrier 5-7 M(2) copy.jpg,jack russell terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 5-7 M(3) copy.jpg,jack russell terrier 5-7 M(3) copy.jpg,jack russell terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 5-7 M.png,Jack russell terrier 5-7 M.png,jack russell terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 6 M(2).png,jack russell terrier 6 M(2).png,jack russell terrier,6.0,6.0,6.0,6,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8 M copy.jpg,jack russell terrier 8 M copy.jpg,jack russell terrier,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8 M.png,jack russell terrier 8 M.png,jack russell terrier,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 8+ F copy.jpg,Jack russell terrier 8+ F copy.jpg,jack russell terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8+ F.png,jack russell terrier 8+ F.png,jack russell terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell Terrier 8+ M copy.jpg,Jack russell Terrier 8+ M copy.jpg,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8+ M(1) copy.jpg,jack russell terrier 8+ M(1) copy.jpg,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 8+ M(1).png,Jack russell terrier 8+ M(1).png,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8+ M(2) copy.jpg,jack russell terrier 8+ M(2) copy.jpg,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8+ M(3) copy.jpg,jack russell terrier 8+ M(3) copy.jpg,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8+ M(30).png,jack russell terrier 8+ M(30).png,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8+ M(31).png,jack russell terrier 8+ M(31).png,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\jack russell terrier 8+ M(32).png,jack russell terrier 8+ M(32).png,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russell terrier 8+ M.png,Jack russell terrier 8+ M.png,jack russell terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russerl terrier 5-7 F copy.jpg,Jack russerl terrier 5-7 F copy.jpg,jack russerl terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Jack russerl terrier 8 M copy.jpg,Jack russerl terrier 8 M copy.jpg,jack russerl terrier,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lab cross 2-5 M(7) copy.jpg,lab cross 2-5 M(7) copy.jpg,lab cross,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lab cross 5-7 F copy.jpg,Lab cross 5-7 F copy.jpg,lab cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lab cross 5-7 F(1) copy.jpg,lab cross 5-7 F(1) copy.jpg,lab cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lab cross 5-7 M copy.jpg,Lab cross 5-7 M copy.jpg,lab cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lab cross 5-7 M(1) copy.jpg,Lab cross 5-7 M(1) copy.jpg,lab cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lab cross 5-7 M(2) copy.jpg,lab cross 5-7 M(2) copy.jpg,lab cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lab cross 5-7 M(3) copy.jpg,lab cross 5-7 M(3) copy.jpg,lab cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lab cross 8+ M copy.jpg,lab cross 8+ M copy.jpg,lab cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador 14 M copy.jpg,labrador 14 M copy.jpg,labrador,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador 14 M(1) copy.jpg,labrador 14 M(1) copy.jpg,labrador,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador 5 M copy.jpg,labrador 5 M copy.jpg,labrador,5.0,5.0,5.0,5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador 5-7 M copy.jpg,Labrador 5-7 M copy.jpg,labrador,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador 7 M.png,labrador 7 M.png,labrador,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador 8 M copy.jpg,Labrador 8 M copy.jpg,labrador,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador 8+ F copy.jpg,Labrador 8+ F copy.jpg,labrador,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador 8+ M copy.jpg,labrador 8+ M copy.jpg,labrador,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador 8+ M(1) copy.jpg,labrador 8+ M(1) copy.jpg,labrador,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador 9 F copy.jpg,Labrador 9 F copy.jpg,labrador,9.0,9.0,9.0,9,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador 9 F(1) copy.jpg,labrador 9 F(1) copy.jpg,labrador,9.0,9.0,9.0,9,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador cross 11 M copy.jpg,labrador cross 11 M copy.jpg,labrador cross,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador cross 11 M(1) copy.jpg,labrador cross 11 M(1) copy.jpg,labrador cross,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador cross 14 M.png,Labrador cross 14 M.png,labrador cross,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador cross 5-7 F copy.jpg,labrador cross 5-7 F copy.jpg,labrador cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador cross 5-7 F(1) copy.jpg,labrador cross 5-7 F(1) copy.jpg,labrador cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador cross 5-7 F(1).png,Labrador cross 5-7 F(1).png,labrador cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador cross 5-7 M(4).png,labrador cross 5-7 M(4).png,labrador cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador cross 8+ M copy.jpg,Labrador cross 8+ M copy.jpg,labrador cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Labrador cross 9 F copy.jpg,Labrador cross 9 F copy.jpg,labrador cross,9.0,9.0,9.0,9,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\labrador cross 9 F(1) copy.jpg,labrador cross 9 F(1) copy.jpg,labrador cross,9.0,9.0,9.0,9,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lakeland terrier 12 F (1).png,lakeland terrier 12 F (1).png,lakeland terrier,12.0,12.0,12.0,12,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lakeland terrier 8+ F copy.jpg,lakeland terrier 8+ F copy.jpg,lakeland terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lhasa apso 5-7 M copy.jpg,Lhasa apso 5-7 M copy.jpg,lhasa apso,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lhasa apso 8+ F copy.jpg,lhasa apso 8+ F copy.jpg,lhasa apso,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lhasa Apso 8+ M copy.jpg,Lhasa Apso 8+ M copy.jpg,lhasa apso,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 2-5 F (8) copy.jpg,Lurcher 2-5 F (8) copy.jpg,lurcher,2.0,5.0,3.5,2-5,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 2-5 M(7) copy.jpg,lurcher 2-5 M(7) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 2-5 M(8) copy.jpg,Lurcher 2-5 M(8) copy.jpg,lurcher,2.0,5.0,3.5,2-5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 5 M copy.jpg,lurcher 5 M copy.jpg,lurcher,5.0,5.0,5.0,5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 5-7 F copy.jpg,lurcher 5-7 F copy.jpg,lurcher,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 5-7 F(2) copy.jpg,lurcher 5-7 F(2) copy.jpg,lurcher,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 5-7 F(6) copy.jpg,Lurcher 5-7 F(6) copy.jpg,lurcher,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 5-7 M copy.jpg,Lurcher 5-7 M copy.jpg,lurcher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 5-7 M(2) copy.jpg,Lurcher 5-7 M(2) copy.jpg,lurcher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 5-7 M(4) copy.jpg,Lurcher 5-7 M(4) copy.jpg,lurcher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 5-7 M(5) copy.jpg,Lurcher 5-7 M(5) copy.jpg,lurcher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 5-7 M(6) copy.jpg,lurcher 5-7 M(6) copy.jpg,lurcher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 5-7 M(7) copy.jpg,lurcher 5-7 M(7) copy.jpg,lurcher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 5-7 M(8) copy.jpg,lurcher 5-7 M(8) copy.jpg,lurcher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 7 M copy.jpg,lurcher 7 M copy.jpg,lurcher,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Lurcher 7 M(1) copy.jpg,Lurcher 7 M(1) copy.jpg,lurcher,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\lurcher 8+ F.png,lurcher 8+ F.png,lurcher,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Malamute 5-7 F copy.jpg,Malamute 5-7 F copy.jpg,malamute,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Malamute 5-7 F(1) copy.jpg,Malamute 5-7 F(1) copy.jpg,malamute,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Malamute 5-7 M copy.jpg,Malamute 5-7 M copy.jpg,malamute,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Mastiff 12 M copy.jpg,Mastiff 12 M copy.jpg,mastiff,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\mastiff 12 M(1) copy.jpg,mastiff 12 M(1) copy.jpg,mastiff,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\miniature pinscher 5-7 M copy.jpg,miniature pinscher 5-7 M copy.jpg,miniature pinscher,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\neopolitan mastiff 8+ M copy.jpg,neopolitan mastiff 8+ M copy.jpg,neopolitan mastiff,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\newfoundland 11 M copy.jpg,newfoundland 11 M copy.jpg,newfoundland,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\newfoundland 11 M(1) copy.jpg,newfoundland 11 M(1) copy.jpg,newfoundland,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\pointer (english) 12 M copy.jpg,pointer (english) 12 M copy.jpg,pointer (english),12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\pointer (english) 5-7 F copy.jpg,pointer (english) 5-7 F copy.jpg,pointer (english),5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\pointer (english) 5-7 M(1) copy.jpg,pointer (english) 5-7 M(1) copy.jpg,pointer (english),5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\pointer (english) 8+ M copy.jpg,pointer (english) 8+ M copy.jpg,pointer (english),8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Pointer (German Short Hair) 5-7 M.png,Pointer (German Short Hair) 5-7 M.png,pointer (german short hair),5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\pointer (german) 5-7 F copy.jpg,pointer (german) 5-7 F copy.jpg,pointer (german),5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Pointer 12 M copy.jpg,Pointer 12 M copy.jpg,pointer,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Pomeranian 5 M copy.jpg,Pomeranian 5 M copy.jpg,pomeranian,5.0,5.0,5.0,5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\poodle cross 14 M(1) copy.jpg,poodle cross 14 M(1) copy.jpg,poodle cross,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\poodle toy 8+ M(1).png,poodle toy 8+ M(1).png,poodle toy,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Pug 5-7 M copy.jpg,Pug 5-7 M copy.jpg,pug,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\pug cross 5-7 M.png,pug cross 5-7 M.png,pug cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\rottweiler 12 M(1) copy.jpg,rottweiler 12 M(1) copy.jpg,rottweiler,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Rottweiler 5-7 F copy.jpg,Rottweiler 5-7 F copy.jpg,rottweiler,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\rottweiler 5-7 F(1) copy.jpg,rottweiler 5-7 F(1) copy.jpg,rottweiler,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Rottweiler 5-7 M copy.jpg,Rottweiler 5-7 M copy.jpg,rottweiler,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\rottweiler 5-7 M(1) copy.jpg,rottweiler 5-7 M(1) copy.jpg,rottweiler,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\rottweiler 8 M.png,rottweiler 8 M.png,rottweiler,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Rottweiler 8+ M (30).png,Rottweiler 8+ M (30).png,rottweiler,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Rottweiler 8+ M copy.jpg,Rottweiler 8+ M copy.jpg,rottweiler,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\rottweiler 8+ M(1) copy.jpg,rottweiler 8+ M(1) copy.jpg,rottweiler,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Rottweiler 8+ M(1).png,Rottweiler 8+ M(1).png,rottweiler,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\scottish terrier 6 F copy.jpg,scottish terrier 6 F copy.jpg,scottish terrier,6.0,6.0,6.0,6,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Shar pei 4 M copy.jpg,Shar pei 4 M copy.jpg,shar pei,4.0,4.0,4.0,4,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Shih tzu 5-7 M copy.jpg,Shih tzu 5-7 M copy.jpg,shih tzu,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\shih tzu 8 M(1) copy.jpg,shih tzu 8 M(1) copy.jpg,shih tzu,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\shih tzu 9 M copy.jpg,shih tzu 9 M copy.jpg,shih tzu,9.0,9.0,9.0,9,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\shih tzu 9 M.png,shih tzu 9 M.png,shih tzu,9.0,9.0,9.0,9,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\shih tzu cross 5-7 F copy.jpg,shih tzu cross 5-7 F copy.jpg,shih tzu cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Siberian husky 3 M copy.jpg,Siberian husky 3 M copy.jpg,siberian husky,3.0,3.0,3.0,3,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Siberian husky 5-7 F copy.jpg,Siberian husky 5-7 F copy.jpg,siberian husky,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky 5-7 F(20).png,siberian husky 5-7 F(20).png,siberian husky,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky 5-7 F.png,siberian husky 5-7 F.png,siberian husky,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky 5-7 M copy.jpg,siberian husky 5-7 M copy.jpg,siberian husky,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky 5-7 M(1) copy.jpg,siberian husky 5-7 M(1) copy.jpg,siberian husky,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky 5-7 M(2) copy.jpg,siberian husky 5-7 M(2) copy.jpg,siberian husky,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky 5-7 M(4) copy.jpg,siberian husky 5-7 M(4) copy.jpg,siberian husky,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky 8+ F copy.jpg,siberian husky 8+ F copy.jpg,siberian husky,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Siberian husky 8+ M (1).png,Siberian husky 8+ M (1).png,siberian husky,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\siberian husky cross 5-7 M.png,siberian husky cross 5-7 M.png,siberian husky cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Smooth Collie 5-7 M.png,Smooth Collie 5-7 M.png,smooth collie,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\spaniel 4 M copy.jpg,spaniel 4 M copy.jpg,spaniel,4.0,4.0,4.0,4,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Spaniel 5-7 F copy.jpg,Spaniel 5-7 F copy.jpg,spaniel,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\spaniel 5-7 F(2) copy.jpg,spaniel 5-7 F(2) copy.jpg,spaniel,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\spaniel 8+ M copy.jpg,spaniel 8+ M copy.jpg,spaniel,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Spaniel cross 10 M.png,Spaniel cross 10 M.png,spaniel cross,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\spaniel cross 5-7 F copy.jpg,spaniel cross 5-7 F copy.jpg,spaniel cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\springer spaniel 10 M copy.jpg,springer spaniel 10 M copy.jpg,springer spaniel,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Springer spaniel 10 M(1) copy.jpg,Springer spaniel 10 M(1) copy.jpg,springer spaniel,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\springer spaniel 11 M(1) copy.jpg,springer spaniel 11 M(1) copy.jpg,springer spaniel,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\springer spaniel 12 M copy.jpg,springer spaniel 12 M copy.jpg,springer spaniel,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\springer spaniel 5 M(1) copy.jpg,springer spaniel 5 M(1) copy.jpg,springer spaniel,5.0,5.0,5.0,5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\springer spaniel 5-7 M copy.jpg,springer spaniel 5-7 M copy.jpg,springer spaniel,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Springer spaniel 8+ M copy.jpg,Springer spaniel 8+ M copy.jpg,springer spaniel,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\springer spaniel 8+ M(2) copy.jpg,springer spaniel 8+ M(2) copy.jpg,springer spaniel,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\springer spaniel 8+ M(3) copy.jpg,springer spaniel 8+ M(3) copy.jpg,springer spaniel,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 10 F copy.jpg,Staffordshire bull terrier 10 F copy.jpg,staffordshire bull terrier,10.0,10.0,10.0,10,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 10 M copy.jpg,Staffordshire bull terrier 10 M copy.jpg,staffordshire bull terrier,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 11 M(1) copy.jpg,staffordshire bull terrier 11 M(1) copy.jpg,staffordshire bull terrier,11.0,11.0,11.0,11,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 12 F(8) copy.jpg,staffordshire bull terrier 12 F(8) copy.jpg,staffordshire bull terrier,12.0,12.0,12.0,12,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 3 F.png,staffordshire bull terrier 3 F.png,staffordshire bull terrier,3.0,3.0,3.0,3,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5 M.png,Staffordshire bull terrier 5 M.png,staffordshire bull terrier,5.0,5.0,5.0,5,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 F copy.jpg,Staffordshire bull terrier 5-7 F copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 F(1) copy.jpg,Staffordshire bull terrier 5-7 F(1) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 5-7 F(31).png,staffordshire bull terrier 5-7 F(31).png,staffordshire bull terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 F(4) copy.jpg,Staffordshire bull terrier 5-7 F(4) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 5-7 F(5) copy.jpg,staffordshire bull terrier 5-7 F(5) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 5-7 F(6) copy.jpg,staffordshire bull terrier 5-7 F(6) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 5-7 F.png,staffordshire bull terrier 5-7 F.png,staffordshire bull terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 M (2).png,Staffordshire bull terrier 5-7 M (2).png,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 5-7 M (3) copy.jpg,staffordshire bull terrier 5-7 M (3) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 M copy.jpg,Staffordshire bull terrier 5-7 M copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 M(1) copy.jpg,Staffordshire bull terrier 5-7 M(1) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 M(2) copy.jpg,Staffordshire bull terrier 5-7 M(2) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 M(3) copy.jpg,Staffordshire bull terrier 5-7 M(3) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 5-7 M(3).png,Staffordshire bull terrier 5-7 M(3).png,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 5-7 M(4) copy.jpg,staffordshire bull terrier 5-7 M(4) copy.jpg,staffordshire bull terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 7 F copy.jpg,staffordshire bull terrier 7 F copy.jpg,staffordshire bull terrier,7.0,7.0,7.0,7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 7 M copy.jpg,Staffordshire bull terrier 7 M copy.jpg,staffordshire bull terrier,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 8 M copy.jpg,Staffordshire bull terrier 8 M copy.jpg,staffordshire bull terrier,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 8+ F copy.jpg,Staffordshire bull terrier 8+ F copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(1) copy.jpg,staffordshire bull terrier 8+ F(1) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(2) copy.jpg,staffordshire bull terrier 8+ F(2) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(3) copy.jpg,staffordshire bull terrier 8+ F(3) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(4) copy.jpg,staffordshire bull terrier 8+ F(4) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(5) copy.jpg,staffordshire bull terrier 8+ F(5) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(6) copy.jpg,staffordshire bull terrier 8+ F(6) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(7) copy.jpg,staffordshire bull terrier 8+ F(7) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(8) copy.jpg,staffordshire bull terrier 8+ F(8) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F(9) copy.jpg,staffordshire bull terrier 8+ F(9) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ F.png,staffordshire bull terrier 8+ F.png,staffordshire bull terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 8+ M (2) copy.jpg,Staffordshire bull terrier 8+ M (2) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ M (33).png,staffordshire bull terrier 8+ M (33).png,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ M (35).png,staffordshire bull terrier 8+ M (35).png,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier 8+ M(3) copy.jpg,Staffordshire bull terrier 8+ M(3) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ M(31).png,staffordshire bull terrier 8+ M(31).png,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ M(4) copy.jpg,staffordshire bull terrier 8+ M(4) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ M(5) copy.jpg,staffordshire bull terrier 8+ M(5) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 8+ M(7) copy.jpg,staffordshire bull terrier 8+ M(7) copy.jpg,staffordshire bull terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier 9 M.png,staffordshire bull terrier 9 M.png,staffordshire bull terrier,9.0,9.0,9.0,9,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 10 M copy.jpg,staffordshire bull terrier cross 10 M copy.jpg,staffordshire bull terrier cross,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 10 M(2) copy.jpg,staffordshire bull terrier cross 10 M(2) copy.jpg,staffordshire bull terrier cross,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 10 M(3) copy.jpg,staffordshire bull terrier cross 10 M(3) copy.jpg,staffordshire bull terrier cross,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 12 M copy.jpg,staffordshire bull terrier cross 12 M copy.jpg,staffordshire bull terrier cross,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 12 M(1) copy.jpg,staffordshire bull terrier cross 12 M(1) copy.jpg,staffordshire bull terrier cross,12.0,12.0,12.0,12,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier cross 5-7 F (1) copy.jpg,Staffordshire bull terrier cross 5-7 F (1) copy.jpg,staffordshire bull terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire Bull terrier cross 5-7 F copy.jpg,Staffordshire Bull terrier cross 5-7 F copy.jpg,staffordshire bull terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 5-7 F(2) copy.jpg,staffordshire bull terrier cross 5-7 F(2) copy.jpg,staffordshire bull terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier cross 5-7 M copy.jpg,Staffordshire bull terrier cross 5-7 M copy.jpg,staffordshire bull terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier cross 5-7 M(1) copy.jpg,Staffordshire bull terrier cross 5-7 M(1) copy.jpg,staffordshire bull terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 5-7 M(2) copy.jpg,staffordshire bull terrier cross 5-7 M(2) copy.jpg,staffordshire bull terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 5-7 M(3) copy.jpg,staffordshire bull terrier cross 5-7 M(3) copy.jpg,staffordshire bull terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 6 F copy.jpg,staffordshire bull terrier cross 6 F copy.jpg,staffordshire bull terrier cross,6.0,6.0,6.0,6,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 6 F.png,staffordshire bull terrier cross 6 F.png,staffordshire bull terrier cross,6.0,6.0,6.0,6,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 8 M copy.jpg,staffordshire bull terrier cross 8 M copy.jpg,staffordshire bull terrier cross,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 8+ F.png,staffordshire bull terrier cross 8+ F.png,staffordshire bull terrier cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\staffordshire bull terrier cross 8+ M (20).png,staffordshire bull terrier cross 8+ M (20).png,staffordshire bull terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier cross 8+ M copy.jpg,Staffordshire bull terrier cross 8+ M copy.jpg,staffordshire bull terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Staffordshire bull terrier cross 8+ M(1) copy.jpg,Staffordshire bull terrier cross 8+ M(1) copy.jpg,staffordshire bull terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 10 M copy.jpg,terrier 10 M copy.jpg,terrier,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 10 M(1) copy.jpg,terrier 10 M(1) copy.jpg,terrier,10.0,10.0,10.0,10,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 5-7 F copy.jpg,terrier 5-7 F copy.jpg,terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier 5-7 M copy.jpg,Terrier 5-7 M copy.jpg,terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 5-7 M(1) copy.jpg,terrier 5-7 M(1) copy.jpg,terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 5-7 M(2) copy.jpg,terrier 5-7 M(2) copy.jpg,terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 5-7 M(4) copy.jpg,terrier 5-7 M(4) copy.jpg,terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier 8+ F copy.jpg,Terrier 8+ F copy.jpg,terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 8+ M copy.jpg,terrier 8+ M copy.jpg,terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier 8+ M(1) copy.jpg,terrier 8+ M(1) copy.jpg,terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 12 F copy.jpg,terrier cross 12 F copy.jpg,terrier cross,12.0,12.0,12.0,12,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 13 M copy.jpg,terrier cross 13 M copy.jpg,terrier cross,13.0,13.0,13.0,13,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 14 F(1) copy.jpg,terrier cross 14 F(1) copy.jpg,terrier cross,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 14 M copy.jpg,terrier cross 14 M copy.jpg,terrier cross,14.0,14.0,14.0,14,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier Cross 5-7 F copy.jpg,Terrier Cross 5-7 F copy.jpg,terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 5-7 F(1) copy.jpg,Terrier cross 5-7 F(1) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 5-7 F(2) copy.jpg,terrier cross 5-7 F(2) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 5-7 F(3) copy.jpg,terrier cross 5-7 F(3) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 5-7 F.png,terrier cross 5-7 F.png,terrier cross,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 5-7 M copy.jpg,Terrier cross 5-7 M copy.jpg,terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 5-7 M(1) copy.jpg,Terrier cross 5-7 M(1) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 5-7 M(2) copy.jpg,Terrier cross 5-7 M(2) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 5-7 M(3) copy.jpg,Terrier cross 5-7 M(3) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 5-7 M(4) copy.jpg,terrier cross 5-7 M(4) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 5-7 M(5) copy.jpg,terrier cross 5-7 M(5) copy.jpg,terrier cross,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 6 M copy.jpg,Terrier cross 6 M copy.jpg,terrier cross,6.0,6.0,6.0,6,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 7 M (3).png,terrier cross 7 M (3).png,terrier cross,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 7 M.png,Terrier cross 7 M.png,terrier cross,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8 F(1) copy.jpg,terrier cross 8 F(1) copy.jpg,terrier cross,8.0,8.0,8.0,8,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ F copy.jpg,terrier cross 8+ F copy.jpg,terrier cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ F(1) copy.jpg,terrier cross 8+ F(1) copy.jpg,terrier cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ F(2) copy.jpg,terrier cross 8+ F(2) copy.jpg,terrier cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ F.png,terrier cross 8+ F.png,terrier cross,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 8+ M (1) copy.jpg,Terrier cross 8+ M (1) copy.jpg,terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ M (10).png,terrier cross 8+ M (10).png,terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Terrier cross 8+ M copy.jpg,Terrier cross 8+ M copy.jpg,terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ M(2) copy.jpg,terrier cross 8+ M(2) copy.jpg,terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ M(2).png,terrier cross 8+ M(2).png,terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ M(20).png,terrier cross 8+ M(20).png,terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\terrier cross 8+ M.png,terrier cross 8+ M.png,terrier cross,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\tibetan spaniel 7 M copy.jpg,tibetan spaniel 7 M copy.jpg,tibetan spaniel,7.0,7.0,7.0,7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\trailhound 5-7 M copy.jpg,trailhound 5-7 M copy.jpg,trailhound,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\trailhound 8 M.png,trailhound 8 M.png,trailhound,8.0,8.0,8.0,8,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\west highland terrier 5-7 F copy.jpg,west highland terrier 5-7 F copy.jpg,west highland terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\west highland terrier 5-7 M copy.jpg,west highland terrier 5-7 M copy.jpg,west highland terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\west highland terrier 8+ M.png,west highland terrier 8+ M.png,west highland terrier,8.0,inf,8.0,8+,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Whippet 8+ F copy.jpg,Whippet 8+ F copy.jpg,whippet,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\yorkshire Terrier 14 F copy.jpg,yorkshire Terrier 14 F copy.jpg,yorkshire terrier,14.0,14.0,14.0,14,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\yorkshire terrier 5-7 F(2).png,yorkshire terrier 5-7 F(2).png,yorkshire terrier,5.0,7.0,6.0,5-7,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Yorkshire Terrier 5-7 M copy.jpg,Yorkshire Terrier 5-7 M copy.jpg,yorkshire terrier,5.0,7.0,6.0,5-7,M,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Senior\Yorkshire terrier 8+ F copy.jpg,Yorkshire terrier 8+ F copy.jpg,yorkshire terrier,8.0,inf,8.0,8+,F,Senior,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\akita 0.5-1 M copy.jpg,akita 0.5-1 M copy.jpg,akita,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\akita 1-2 M(1) copy.jpg,akita 1-2 M(1) copy.jpg,akita,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Akita 1-2 M.jpg,Akita 1-2 M.jpg,akita,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Akita 2.5 F.png,Akita 2.5 F.png,akita,2.5,2.5,2.5,2.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\alaskan malamute 1-2 M(1).png,alaskan malamute 1-2 M(1).png,alaskan malamute,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\american bulldog 0.67 M.png,american bulldog 0.67 M.png,american bulldog,0.67,0.67,0.67,0.67,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\American bulldog 1-2 F (1) copy.jpg,American bulldog 1-2 F (1) copy.jpg,american bulldog,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\American bulldog 1-2 F copy.jpg,American bulldog 1-2 F copy.jpg,american bulldog,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\american bulldog 1-2 M(1) copy.jpg,american bulldog 1-2 M(1) copy.jpg,american bulldog,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\american bulldog 1-2 M(1).png,american bulldog 1-2 M(1).png,american bulldog,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\American bulldog 1-2 M.png,American bulldog 1-2 M.png,american bulldog,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Beagle 0.5-1 M copy.jpg,Beagle 0.5-1 M copy.jpg,beagle,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Beagle 1-2 F copy.jpg,Beagle 1-2 F copy.jpg,beagle,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\beagle cross 0.5-1 F.png,beagle cross 0.5-1 F.png,beagle cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Belgian Malinois 1-2 M copy.jpg,Belgian Malinois 1-2 M copy.jpg,belgian malinois,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Belgian shepherd Malinois 1-2 M(1).png,Belgian shepherd Malinois 1-2 M(1).png,belgian shepherd malinois,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Belgian shepherd Malinois 1-2 M.png,Belgian shepherd Malinois 1-2 M.png,belgian shepherd malinois,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\bichon frise 1-2 M.png,bichon frise 1-2 M.png,bichon frise,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 0.33 M(2).png,border collie 0.33 M(2).png,border collie,0.33,0.33,0.33,0.33,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 0.33 M(3).png,border collie 0.33 M(3).png,border collie,0.33,0.33,0.33,0.33,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Border collie 0.33 M.png,Border collie 0.33 M.png,border collie,0.33,0.33,0.33,0.33,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 0.5 M copy.jpg,border collie 0.5 M copy.jpg,border collie,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Border Collie 0.5 M.png,Border Collie 0.5 M.png,border collie,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Border collie 0.5-1 F copy.jpg,Border collie 0.5-1 F copy.jpg,border collie,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Border Collie 0.5-1 F(1) copy.jpg,Border Collie 0.5-1 F(1) copy.jpg,border collie,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 0.5-1 M copy.jpg,border collie 0.5-1 M copy.jpg,border collie,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 1 F.png,border collie 1 F.png,border collie,1.0,1.0,1.0,1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Border Collie 1-2 F copy.jpg,Border Collie 1-2 F copy.jpg,border collie,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 1-2 F(2) copy.jpg,border collie 1-2 F(2) copy.jpg,border collie,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 1-2 M copy.jpg,border collie 1-2 M copy.jpg,border collie,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border Collie 1-2 M(1).png,border Collie 1-2 M(1).png,border collie,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie 1-2 M(2) copy.jpg,border collie 1-2 M(2) copy.jpg,border collie,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Border collie 1-2 M.png,Border collie 1-2 M.png,border collie,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\border collie cross 1-2 F(30).png,border collie cross 1-2 F(30).png,border collie cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Boxer cross 1-2 M copy.jpg,Boxer cross 1-2 M copy.jpg,boxer cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Bull mastiff 1-2 M copy.jpg,Bull mastiff 1-2 M copy.jpg,bull mastiff,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Bulldog 1-2 M copy.jpg,Bulldog 1-2 M copy.jpg,bulldog,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\bulldog 2 F(1).png,bulldog 2 F(1).png,bulldog,2.0,2.0,2.0,2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\bulldog cross 0.5-1 M (21).png,bulldog cross 0.5-1 M (21).png,bulldog cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\chihuahua 1-2 M copy.jpg,chihuahua 1-2 M copy.jpg,chihuahua,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Chihuahua long hair 0.5 F.png,Chihuahua long hair 0.5 F.png,chihuahua long hair,0.5,0.5,0.5,0.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\chihuahua long hair 1-2 M.png,chihuahua long hair 1-2 M.png,chihuahua long hair,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Chihuahua short hair 0.33 F.png,Chihuahua short hair 0.33 F.png,chihuahua short hair,0.33,0.33,0.33,0.33,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Chihuahua short hair 0.33 M(1).png,Chihuahua short hair 0.33 M(1).png,chihuahua short hair,0.33,0.33,0.33,0.33,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Chihuahua short hair 0.33 M.png,Chihuahua short hair 0.33 M.png,chihuahua short hair,0.33,0.33,0.33,0.33,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cocker Spaniel 0.5-1 M copy.jpg,cocker Spaniel 0.5-1 M copy.jpg,cocker spaniel,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cocker Spaniel 0.67 M.png,Cocker Spaniel 0.67 M.png,cocker spaniel,0.67,0.67,0.67,0.67,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cocker Spaniel 1-2 M copy.jpg,Cocker Spaniel 1-2 M copy.jpg,cocker spaniel,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cocker spaniel 2.5 F.png,cocker spaniel 2.5 F.png,cocker spaniel,2.5,2.5,2.5,2.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cocker spaniel cross poodle 0.5 F copy.jpg,cocker spaniel cross poodle 0.5 F copy.jpg,cocker spaniel cross poodle,0.5,0.5,0.5,0.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cocker spaniel cross poodle 0.5-1 M.png,cocker spaniel cross poodle 0.5-1 M.png,cocker spaniel cross poodle,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie 0.5 F copy.jpg,collie 0.5 F copy.jpg,collie,0.5,0.5,0.5,0.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie akita cross 1-2 M(1).png,collie akita cross 1-2 M(1).png,collie akita cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 0.5-1 F(1).png,collie cross 0.5-1 F(1).png,collie cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 0.5-1 F.png,collie cross 0.5-1 F.png,collie cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Collie Cross 0.5-1 M copy.jpg,Collie Cross 0.5-1 M copy.jpg,collie cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 0.5-1 M(1) copy.jpg,collie cross 0.5-1 M(1) copy.jpg,collie cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Collie cross 1-2 F(1) copy.jpg,Collie cross 1-2 F(1) copy.jpg,collie cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Collie cross 1-2 M(1) copy.jpg,Collie cross 1-2 M(1) copy.jpg,collie cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 1-2 M(2) copy.jpg,collie cross 1-2 M(2) copy.jpg,collie cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 1-2 M(2).png,collie cross 1-2 M(2).png,collie cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 1-2 M(3) copy.jpg,collie cross 1-2 M(3) copy.jpg,collie cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 1-2 M.png,collie cross 1-2 M.png,collie cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\collie cross 1.5 F.png,collie cross 1.5 F.png,collie cross,1.5,1.5,1.5,1.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Collie cross 2 M (1).png,Collie cross 2 M (1).png,collie cross,2.0,2.0,2.0,2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cross 0.5-1 F copy.jpg,Cross 0.5-1 F copy.jpg,cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 0.5-1 F(1) copy.jpg,cross 0.5-1 F(1) copy.jpg,cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cross 0.5-1 M (1) copy.jpg,Cross 0.5-1 M (1) copy.jpg,cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cross 0.5-1 M copy.jpg,Cross 0.5-1 M copy.jpg,cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 0.5-1 M(2) copy.jpg,cross 0.5-1 M(2) copy.jpg,cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 0.5-1 M(3) copy.jpg,cross 0.5-1 M(3) copy.jpg,cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cross 1-2 F copy.jpg,Cross 1-2 F copy.jpg,cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 F(1) copy.jpg,cross 1-2 F(1) copy.jpg,cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 F(2) copy.jpg,cross 1-2 F(2) copy.jpg,cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 F(3) copy.jpg,cross 1-2 F(3) copy.jpg,cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 F(5) copy.jpg,cross 1-2 F(5) copy.jpg,cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cross 1-2 M (2) copy.jpg,Cross 1-2 M (2) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 M(1) copy.jpg,cross 1-2 M(1) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Cross 1-2 M(3) copy.jpg,Cross 1-2 M(3) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 M(4) copy.jpg,cross 1-2 M(4) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 M(5) copy.jpg,cross 1-2 M(5) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross 1-2 M(6) copy.jpg,cross 1-2 M(6) copy.jpg,cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\cross breed 1-2 F copy.jpg,cross breed 1-2 F copy.jpg,cross breed,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Crossbreed 0.5 F.png,Crossbreed 0.5 F.png,crossbreed,0.5,0.5,0.5,0.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Crossbreed 0.5 M.png,Crossbreed 0.5 M.png,crossbreed,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\crossbreed 0.5-1 F(22).png,crossbreed 0.5-1 F(22).png,crossbreed,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\crossbreed 0.5-1 M(13).png,crossbreed 0.5-1 M(13).png,crossbreed,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\crossbreed 0.5-1 M(30).png,crossbreed 0.5-1 M(30).png,crossbreed,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\crossbreed 0.5-1 M.png,crossbreed 0.5-1 M.png,crossbreed,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Crossbreed 1-2 M(1).png,Crossbreed 1-2 M(1).png,crossbreed,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\dachshund 0.2 F copy.jpg,dachshund 0.2 F copy.jpg,dachshund,0.2,0.2,0.2,0.2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Dachshund cross 1-2 F copy.jpg,Dachshund cross 1-2 F copy.jpg,dachshund cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\doberman 0.5-1 M.png,doberman 0.5-1 M.png,doberman,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\english bull terrier 0.5-1 M.png,english bull terrier 0.5-1 M.png,english bull terrier,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\english bull terrier 1-2 F copy.jpg,english bull terrier 1-2 F copy.jpg,english bull terrier,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\English bull terrier cross 0.5 F.png,English bull terrier cross 0.5 F.png,english bull terrier cross,0.5,0.5,0.5,0.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Foxhound 0.5 M copy.jpg,Foxhound 0.5 M copy.jpg,foxhound,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\french bulldog 1 M.png,french bulldog 1 M.png,french bulldog,1.0,1.0,1.0,1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\German shepherd 0.5-1 M copy.jpg,German shepherd 0.5-1 M copy.jpg,german shepherd,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\german shepherd 0.5-1 M(1) copy.jpg,german shepherd 0.5-1 M(1) copy.jpg,german shepherd,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\German Shepherd 0.92 F.png,German Shepherd 0.92 F.png,german shepherd,0.92,0.92,0.92,0.92,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\german shepherd 1-2 F(1) copy.jpg,german shepherd 1-2 F(1) copy.jpg,german shepherd,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\german shepherd 1-2 M(2) copy.jpg,german shepherd 1-2 M(2) copy.jpg,german shepherd,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\german shepherd 1-2 M.png,german shepherd 1-2 M.png,german shepherd,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\German Shepherd cross 1-2 M copy.jpg,German Shepherd cross 1-2 M copy.jpg,german shepherd cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\German shepherd cross 1-2 M(1) copy.jpg,German shepherd cross 1-2 M(1) copy.jpg,german shepherd cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\german shepherd mix 1-2 F copy.jpg,german shepherd mix 1-2 F copy.jpg,german shepherd mix,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\golden retriever 0.5-1 F.png,golden retriever 0.5-1 F.png,golden retriever,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Greyhound 1-2 M(1) copy.jpg,Greyhound 1-2 M(1) copy.jpg,greyhound,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Greyhound 1-2 M(2) copy.jpg,Greyhound 1-2 M(2) copy.jpg,greyhound,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Greyhound 1-2 M(3) copy.jpg,Greyhound 1-2 M(3) copy.jpg,greyhound,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Harrier 0.5-1 F copy.jpg,Harrier 0.5-1 F copy.jpg,harrier,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\jack russel terrier 0.5-1 M copy.jpg,jack russel terrier 0.5-1 M copy.jpg,jack russel terrier,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Jack Russel Terrier 1-2 F copy.jpg,Jack Russel Terrier 1-2 F copy.jpg,jack russel terrier,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\jack russel terrier 1-2 F(1) copy.jpg,jack russel terrier 1-2 F(1) copy.jpg,jack russel terrier,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Jack Russel terrier 1-2 M copy.jpg,Jack Russel terrier 1-2 M copy.jpg,jack russel terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Jack russel terrier 1-2 M(1) copy.jpg,Jack russel terrier 1-2 M(1) copy.jpg,jack russel terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Jack russell 1-2 F.png,Jack russell 1-2 F.png,jack russell,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Jack russell terrier 1-2 F.png,Jack russell terrier 1-2 F.png,jack russell terrier,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\jack russell terrier 1-2 M copy.jpg,jack russell terrier 1-2 M copy.jpg,jack russell terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Jack russell terrier 1-2 M(1).png,Jack russell terrier 1-2 M(1).png,jack russell terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\jack russell terrier 2-5 M(1).png,jack russell terrier 2-5 M(1).png,jack russell terrier,2.0,5.0,3.5,2-5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\jack russell terrier cross 1 F.png,jack russell terrier cross 1 F.png,jack russell terrier cross,1.0,1.0,1.0,1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lab cross 0.5-1 M copy.jpg,lab cross 0.5-1 M copy.jpg,lab cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lab cross 1-2 F copy.jpg,Lab cross 1-2 F copy.jpg,lab cross,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lab cross 1-2 M(2) copy.jpg,lab cross 1-2 M(2) copy.jpg,lab cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lab cross 1-2 M(3) copy.jpg,lab cross 1-2 M(3) copy.jpg,lab cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Labrador 1-2 F.png,Labrador 1-2 F.png,labrador,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\labrador 1-2 M copy.jpg,labrador 1-2 M copy.jpg,labrador,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\labrador 1-2 M.png,labrador 1-2 M.png,labrador,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\labrador cross 0.5-1 M.png,labrador cross 0.5-1 M.png,labrador cross,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Labrador cross 1-2 M(2) copy.jpg,Labrador cross 1-2 M(2) copy.jpg,labrador cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Labrador cross 1-2 M(3) copy.jpg,Labrador cross 1-2 M(3) copy.jpg,labrador cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Labrador cross rottweiler 1 M.png,Labrador cross rottweiler 1 M.png,labrador cross rottweiler,1.0,1.0,1.0,1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lhasa apso 0.5 F copy.jpg,lhasa apso 0.5 F copy.jpg,lhasa apso,0.5,0.5,0.5,0.5,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lhasa apso 1-2 F copy.jpg,lhasa apso 1-2 F copy.jpg,lhasa apso,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 0.5-1 F copy.jpg,Lurcher 0.5-1 F copy.jpg,lurcher,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 0.5-1 F(1).png,lurcher 0.5-1 F(1).png,lurcher,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 0.5-1 F(10).png,lurcher 0.5-1 F(10).png,lurcher,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 0.5-1 F.png,lurcher 0.5-1 F.png,lurcher,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 0.5-1 M copy.jpg,Lurcher 0.5-1 M copy.jpg,lurcher,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 0.5-1 M(1) copy.jpg,Lurcher 0.5-1 M(1) copy.jpg,lurcher,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 0.75 F.png,lurcher 0.75 F.png,lurcher,0.75,0.75,0.75,0.75,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1 F.png,Lurcher 1 F.png,lurcher,1.0,1.0,1.0,1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 F copy.jpg,Lurcher 1-2 F copy.jpg,lurcher,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 1-2 F(1) copy.jpg,lurcher 1-2 F(1) copy.jpg,lurcher,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 1-2 F(2) copy.jpg,lurcher 1-2 F(2) copy.jpg,lurcher,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 1-2 F.png,lurcher 1-2 F.png,lurcher,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M (30).png,Lurcher 1-2 M (30).png,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 1-2 M (34).png,lurcher 1-2 M (34).png,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M copy.jpg,Lurcher 1-2 M copy.jpg,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M(1) copy.jpg,Lurcher 1-2 M(1) copy.jpg,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M(2) copy.jpg,Lurcher 1-2 M(2) copy.jpg,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M(30).png,Lurcher 1-2 M(30).png,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M(4) copy.jpg,Lurcher 1-2 M(4) copy.jpg,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 1-2 M(5) copy.jpg,lurcher 1-2 M(5) copy.jpg,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\lurcher 1-2 M(6) copy.jpg,lurcher 1-2 M(6) copy.jpg,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M(8).png,Lurcher 1-2 M(8).png,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Lurcher 1-2 M.png,Lurcher 1-2 M.png,lurcher,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Newfoundland 1-2 M copy.jpg,Newfoundland 1-2 M copy.jpg,newfoundland,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Poodle cross 0.5-1 F copy.jpg,Poodle cross 0.5-1 F copy.jpg,poodle cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Poodle cross 1-2 M copy.jpg,Poodle cross 1-2 M copy.jpg,poodle cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Pug cross jack russell terrier 0.75 F.png,Pug cross jack russell terrier 0.75 F.png,pug cross jack russell terrier,0.75,0.75,0.75,0.75,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\rottweiler 1-2 M.png,rottweiler 1-2 M.png,rottweiler,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Rottweiler Cross 1-2 M(2) copy.jpg,Rottweiler Cross 1-2 M(2) copy.jpg,rottweiler cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Saluki 1-2 M copy.jpg,Saluki 1-2 M copy.jpg,saluki,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\saluki 1-2 M(1) copy.jpg,saluki 1-2 M(1) copy.jpg,saluki,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\setter cross 1 M.png,setter cross 1 M.png,setter cross,1.0,1.0,1.0,1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Shar pei 0.5-1 M copy.jpg,Shar pei 0.5-1 M copy.jpg,shar pei,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\shar pei 1-2 M copy.jpg,shar pei 1-2 M copy.jpg,shar pei,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\shar pei cross 2 F.png,shar pei cross 2 F.png,shar pei cross,2.0,2.0,2.0,2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\shih tzu 0.5 M copy.jpg,shih tzu 0.5 M copy.jpg,shih tzu,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Shih tzu cross 0.5 M copy.jpg,Shih tzu cross 0.5 M copy.jpg,shih tzu cross,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\siberian husky 0.5-1 F copy.jpg,siberian husky 0.5-1 F copy.jpg,siberian husky,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\siberian husky 0.5-1 F(1) copy.jpg,siberian husky 0.5-1 F(1) copy.jpg,siberian husky,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Siberian husky 0.5-1 M copy.jpg,Siberian husky 0.5-1 M copy.jpg,siberian husky,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\smooth collie 1-2 F copy.jpg,smooth collie 1-2 F copy.jpg,smooth collie,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Smooth Collie 1-2 M.png,Smooth Collie 1-2 M.png,smooth collie,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\springer spaniel 0.5 M copy.jpg,springer spaniel 0.5 M copy.jpg,springer spaniel,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Springer spaniel 1 M.png,Springer spaniel 1 M.png,springer spaniel,1.0,1.0,1.0,1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier 0.5 M copy.jpg,Staffordshire bull terrier 0.5 M copy.jpg,staffordshire bull terrier,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier 0.5 M.png,Staffordshire bull terrier 0.5 M.png,staffordshire bull terrier,0.5,0.5,0.5,0.5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 0.5-1 F copy.jpg,staffordshire bull terrier 0.5-1 F copy.jpg,staffordshire bull terrier,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 0.5-1 M copy.jpg,staffordshire bull terrier 0.5-1 M copy.jpg,staffordshire bull terrier,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 0.5-1 M(41).png,staffordshire bull terrier 0.5-1 M(41).png,staffordshire bull terrier,0.5,1.0,0.75,0.5-1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1 F.png,staffordshire bull terrier 1 F.png,staffordshire bull terrier,1.0,1.0,1.0,1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier 1 M copy.jpg,Staffordshire bull terrier 1 M copy.jpg,staffordshire bull terrier,1.0,1.0,1.0,1,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1-2 F(2) copy.jpg,staffordshire bull terrier 1-2 F(2) copy.jpg,staffordshire bull terrier,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier 1-2 M copy.jpg,Staffordshire bull terrier 1-2 M copy.jpg,staffordshire bull terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1-2 M(1) copy.jpg,staffordshire bull terrier 1-2 M(1) copy.jpg,staffordshire bull terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1-2 M(2) copy.jpg,staffordshire bull terrier 1-2 M(2) copy.jpg,staffordshire bull terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1-2 M(3) copy.jpg,staffordshire bull terrier 1-2 M(3) copy.jpg,staffordshire bull terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1-2 M(30).png,staffordshire bull terrier 1-2 M(30).png,staffordshire bull terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1-2 M(31).png,staffordshire bull terrier 1-2 M(31).png,staffordshire bull terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 1-2 M.png,staffordshire bull terrier 1-2 M.png,staffordshire bull terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier 2 F.png,Staffordshire bull terrier 2 F.png,staffordshire bull terrier,2.0,2.0,2.0,2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier 2 M.png,Staffordshire bull terrier 2 M.png,staffordshire bull terrier,2.0,2.0,2.0,2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier 4 F(1).png,staffordshire bull terrier 4 F(1).png,staffordshire bull terrier,4.0,4.0,4.0,4,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier 5 M(1).png,Staffordshire bull terrier 5 M(1).png,staffordshire bull terrier,5.0,5.0,5.0,5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier cross 1-2 M copy.jpg,Staffordshire bull terrier cross 1-2 M copy.jpg,staffordshire bull terrier cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Staffordshire bull terrier cross 1-2 M(1) copy.jpg,Staffordshire bull terrier cross 1-2 M(1) copy.jpg,staffordshire bull terrier cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\staffordshire bull terrier cross 1-2 M.png,staffordshire bull terrier cross 1-2 M.png,staffordshire bull terrier cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\stafforshire bull terrier 1-2 F (40).png,stafforshire bull terrier 1-2 F (40).png,stafforshire bull terrier,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\stafforshire bullterrier 1-2 F.png,stafforshire bullterrier 1-2 F.png,stafforshire bullterrier,1.0,2.0,1.5,1-2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier 0.5-1 F copy.jpg,terrier 0.5-1 F copy.jpg,terrier,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier 1-2 M copy.jpg,terrier 1-2 M copy.jpg,terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier 1-2 M(1) copy.jpg,terrier 1-2 M(1) copy.jpg,terrier,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 0.5-1 F copy.jpg,terrier cross 0.5-1 F copy.jpg,terrier cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 0.5-1 F.png,terrier cross 0.5-1 F.png,terrier cross,0.5,1.0,0.75,0.5-1,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 0.83 M.png,terrier cross 0.83 M.png,terrier cross,0.83,0.83,0.83,0.83,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 1-2 M (10).png,terrier cross 1-2 M (10).png,terrier cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 1-2 M copy.jpg,terrier cross 1-2 M copy.jpg,terrier cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 1-2 M(20).png,terrier cross 1-2 M(20).png,terrier cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 1-2 M.png,terrier cross 1-2 M.png,terrier cross,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier cross 8+ M (1).png,terrier cross 8+ M (1).png,terrier cross,8.0,inf,8.0,8+,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\terrier crpss 1-2 m.png,terrier crpss 1-2 m.png,terrier crpss,1.0,2.0,1.5,1-2,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\trail hound 1.25 M.png,trail hound 1.25 M.png,trail hound,1.25,1.25,1.25,1.25,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\yorkshire terrier 2 F.png,yorkshire terrier 2 F.png,yorkshire terrier,2.0,2.0,2.0,2,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\yorkshire terrier 2-5 M(1) copy.jpg,yorkshire terrier 2-5 M(1) copy.jpg,yorkshire terrier,2.0,5.0,3.5,2-5,M,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Yorkshire terrier cross 0.67 F.png,Yorkshire terrier cross 0.67 F.png,yorkshire terrier cross,0.67,0.67,0.67,0.67,F,Young,Expert
+D:\dogage\dataset\Expert_Train\Expert_TrainEval\Young\Yorkshire terrier cross chihuahua 0.5-1 F.png,Yorkshire terrier cross chihuahua 0.5-1 F.png,yorkshire terrier cross chihuahua,0.5,1.0,0.75,0.5-1,F,Young,Expert
